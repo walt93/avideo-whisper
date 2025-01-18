@@ -1,0 +1,27 @@
+[Unit]
+Description=Whisper Video Processing Daemon
+After=network.target mysql.service
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/whisper
+ExecStart=/usr/bin/python3 /opt/whisper/process_videos.py
+Restart=always
+RestartSec=1
+StandardOutput=append:/opt/whisper/logs/service.log
+StandardError=append:/opt/whisper/logs/service.error.log
+
+# Hardening
+ProtectSystem=full
+PrivateTmp=true
+NoNewPrivileges=true
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+
+[Install]
+WantedBy=multi-user.target
