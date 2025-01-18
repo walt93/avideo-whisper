@@ -1,0 +1,13 @@
+{
+  "status": "running",
+  "last_updated": "2025-01-18T07:50:50.039784",
+  "current_video": "v_250108030038_v7769",
+  "progress": {
+    "total_videos": 10931,
+    "processed": 197,
+    "remaining": 10734,
+    "percent_complete": 1.8,
+    "estimated_completion_time": "1248h 55m",
+    "average_processing_time": 418.87
+  }
+}

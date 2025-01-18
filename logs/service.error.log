@@ -1,0 +1,1213 @@
+2025-01-16 08:47:48,118 - INFO - Starting whisper processing
+2025-01-16 08:47:48,212 - INFO - Found 10931 videos to process
+2025-01-16 08:47:48,212 - INFO - Processing video_250116012051_vd327 (1/10931)
+2025-01-16 08:47:48,212 - INFO - Skipping video_250116012051_vd327 - already processed
+2025-01-16 08:47:48,213 - INFO - Processing video_250116011534_v67de (2/10931)
+2025-01-16 08:47:48,213 - INFO - Skipping video_250116011534_v67de - already processed
+2025-01-16 08:47:48,214 - INFO - Processing video_250116010855_v17b8 (3/10931)
+2025-01-16 08:47:48,214 - INFO - Skipping video_250116010855_v17b8 - already processed
+2025-01-16 08:47:48,214 - INFO - Processing video_250116005911_vf78f (4/10931)
+2025-01-16 08:47:48,214 - INFO - Skipping video_250116005911_vf78f - already processed
+2025-01-16 08:47:48,215 - INFO - Processing v_250115035657_v7a3a (5/10931)
+2025-01-16 08:47:48,215 - INFO - Skipping v_250115035657_v7a3a - already processed
+2025-01-16 08:47:48,216 - INFO - Processing v_250114235650_va78a (6/10931)
+2025-01-16 08:47:48,216 - INFO - Skipping v_250114235650_va78a - already processed
+2025-01-16 08:47:48,216 - INFO - Processing v_250115040050_va27e (7/10931)
+2025-01-16 08:47:48,216 - INFO - Skipping v_250115040050_va27e - already processed
+2025-01-16 08:47:48,217 - INFO - Processing v_250115040904_vf3ec (8/10931)
+2025-01-16 08:47:48,217 - INFO - Skipping v_250115040904_vf3ec - already processed
+2025-01-16 08:47:48,218 - INFO - Processing v_250115053855_v3243 (9/10931)
+2025-01-16 09:19:50,941 - INFO - Starting whisper processing
+2025-01-16 09:19:51,040 - INFO - Found 10931 videos to process
+2025-01-16 09:19:51,040 - INFO - Processing video_250116012051_vd327 (1/10931)
+2025-01-16 09:19:51,040 - INFO - Skipping video_250116012051_vd327 - already processed
+2025-01-16 09:19:51,041 - INFO - Processing video_250116011534_v67de (2/10931)
+2025-01-16 09:19:51,041 - INFO - Skipping video_250116011534_v67de - already processed
+2025-01-16 09:19:51,042 - INFO - Processing video_250116010855_v17b8 (3/10931)
+2025-01-16 09:19:51,042 - INFO - Skipping video_250116010855_v17b8 - already processed
+2025-01-16 09:19:51,042 - INFO - Processing video_250116005911_vf78f (4/10931)
+2025-01-16 09:19:51,042 - INFO - Skipping video_250116005911_vf78f - already processed
+2025-01-16 09:19:51,043 - INFO - Processing v_250115035657_v7a3a (5/10931)
+2025-01-16 09:19:51,043 - INFO - Skipping v_250115035657_v7a3a - already processed
+2025-01-16 09:19:51,044 - INFO - Processing v_250114235650_va78a (6/10931)
+2025-01-16 09:19:51,044 - INFO - Skipping v_250114235650_va78a - already processed
+2025-01-16 09:19:51,044 - INFO - Processing v_250115040050_va27e (7/10931)
+2025-01-16 09:19:51,045 - INFO - Skipping v_250115040050_va27e - already processed
+2025-01-16 09:19:51,045 - INFO - Processing v_250115040904_vf3ec (8/10931)
+2025-01-16 09:19:51,045 - INFO - Skipping v_250115040904_vf3ec - already processed
+2025-01-16 09:19:51,047 - INFO - Processing v_250115053855_v3243 (9/10931)
+2025-01-16 09:23:58,438 - INFO - Starting whisper processing
+2025-01-16 09:23:58,562 - INFO - Found 10931 videos to process
+2025-01-16 09:23:58,562 - INFO - Processing video_250116012051_vd327 (1/10931)
+2025-01-16 09:23:58,562 - INFO - Skipping video_250116012051_vd327 - already processed
+2025-01-16 09:23:58,563 - INFO - Processing video_250116011534_v67de (2/10931)
+2025-01-16 09:23:58,563 - INFO - Skipping video_250116011534_v67de - already processed
+2025-01-16 09:23:58,564 - INFO - Processing video_250116010855_v17b8 (3/10931)
+2025-01-16 09:23:58,564 - INFO - Skipping video_250116010855_v17b8 - already processed
+2025-01-16 09:23:58,564 - INFO - Processing video_250116005911_vf78f (4/10931)
+2025-01-16 09:23:58,564 - INFO - Skipping video_250116005911_vf78f - already processed
+2025-01-16 09:23:58,565 - INFO - Processing v_250115035657_v7a3a (5/10931)
+2025-01-16 09:23:58,565 - INFO - Skipping v_250115035657_v7a3a - already processed
+2025-01-16 09:23:58,566 - INFO - Processing v_250114235650_va78a (6/10931)
+2025-01-16 09:23:58,566 - INFO - Skipping v_250114235650_va78a - already processed
+2025-01-16 09:23:58,566 - INFO - Processing v_250115040050_va27e (7/10931)
+2025-01-16 09:23:58,567 - INFO - Skipping v_250115040050_va27e - already processed
+2025-01-16 09:23:58,568 - INFO - Processing v_250115040904_vf3ec (8/10931)
+2025-01-16 09:23:58,568 - INFO - Skipping v_250115040904_vf3ec - already processed
+2025-01-16 09:23:58,569 - INFO - Processing v_250115053855_v3243 (9/10931)
+2025-01-16 09:50:46,160 - INFO - Starting whisper processing
+2025-01-16 09:50:46,287 - INFO - Found 10931 videos to process
+2025-01-16 09:50:46,288 - INFO - Processing video_250116012051_vd327 (1/10931)
+2025-01-16 09:50:46,288 - INFO - Skipping video_250116012051_vd327 - already processed
+2025-01-16 09:50:46,289 - INFO - Processing video_250116011534_v67de (2/10931)
+2025-01-16 09:50:46,289 - INFO - Skipping video_250116011534_v67de - already processed
+2025-01-16 09:50:46,290 - INFO - Processing video_250116010855_v17b8 (3/10931)
+2025-01-16 09:50:46,290 - INFO - Skipping video_250116010855_v17b8 - already processed
+2025-01-16 09:50:46,291 - INFO - Processing video_250116005911_vf78f (4/10931)
+2025-01-16 09:50:46,291 - INFO - Skipping video_250116005911_vf78f - already processed
+2025-01-16 09:50:46,292 - INFO - Processing v_250115035657_v7a3a (5/10931)
+2025-01-16 09:50:46,292 - INFO - Skipping v_250115035657_v7a3a - already processed
+2025-01-16 09:50:46,293 - INFO - Processing v_250114235650_va78a (6/10931)
+2025-01-16 09:50:46,293 - INFO - Skipping v_250114235650_va78a - already processed
+2025-01-16 09:50:46,293 - INFO - Processing v_250115040050_va27e (7/10931)
+2025-01-16 09:50:46,294 - INFO - Skipping v_250115040050_va27e - already processed
+2025-01-16 09:50:46,295 - INFO - Processing v_250115040904_vf3ec (8/10931)
+2025-01-16 09:50:46,295 - INFO - Skipping v_250115040904_vf3ec - already processed
+2025-01-16 09:50:46,296 - INFO - Processing v_250115053855_v3243 (9/10931)
+2025-01-16 09:53:16,525 - INFO - Starting whisper processing
+2025-01-16 09:53:16,650 - INFO - Found 10931 videos to process
+2025-01-16 09:53:16,650 - INFO - Processing video_250116012051_vd327 (1/10931)
+2025-01-16 09:53:16,651 - INFO - Skipping video_250116012051_vd327 - already processed
+2025-01-16 09:53:16,651 - INFO - Processing video_250116011534_v67de (2/10931)
+2025-01-16 09:53:16,652 - INFO - Skipping video_250116011534_v67de - already processed
+2025-01-16 09:53:16,652 - INFO - Processing video_250116010855_v17b8 (3/10931)
+2025-01-16 09:53:16,652 - INFO - Skipping video_250116010855_v17b8 - already processed
+2025-01-16 09:53:16,653 - INFO - Processing video_250116005911_vf78f (4/10931)
+2025-01-16 09:53:16,653 - INFO - Skipping video_250116005911_vf78f - already processed
+2025-01-16 09:53:16,654 - INFO - Processing v_250115035657_v7a3a (5/10931)
+2025-01-16 09:53:16,654 - INFO - Skipping v_250115035657_v7a3a - already processed
+2025-01-16 09:53:16,655 - INFO - Processing v_250114235650_va78a (6/10931)
+2025-01-16 09:53:16,655 - INFO - Skipping v_250114235650_va78a - already processed
+2025-01-16 09:53:16,656 - INFO - Processing v_250115040050_va27e (7/10931)
+2025-01-16 09:53:16,656 - INFO - Skipping v_250115040050_va27e - already processed
+2025-01-16 09:53:16,657 - INFO - Processing v_250115040904_vf3ec (8/10931)
+2025-01-16 09:53:16,657 - INFO - Skipping v_250115040904_vf3ec - already processed
+2025-01-16 09:53:16,658 - INFO - Processing v_250115053855_v3243 (9/10931)
+2025-01-16 10:28:15,734 - INFO - Successfully processed v_250115053855_v3243
+2025-01-16 10:28:15,735 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243_720.txt to /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243.txt
+2025-01-16 10:28:15,735 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243_720.vtt to /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243.vtt
+2025-01-16 10:28:15,735 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243_720.srt to /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243.srt
+2025-01-16 10:28:15,735 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243_720.json to /var/www/html/conspyre.tv/videos/v_250115053855_v3243/v_250115053855_v3243.json
+2025-01-16 10:28:15,740 - INFO - Processing v_250115054607_v377d (10/10931)
+2025-01-16 10:49:09,774 - INFO - Successfully processed v_250115054607_v377d
+2025-01-16 10:49:09,774 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d_720.txt to /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d.txt
+2025-01-16 10:49:09,775 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d_720.vtt to /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d.vtt
+2025-01-16 10:49:09,775 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d_720.srt to /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d.srt
+2025-01-16 10:49:09,775 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d_720.json to /var/www/html/conspyre.tv/videos/v_250115054607_v377d/v_250115054607_v377d.json
+2025-01-16 10:49:09,781 - INFO - Processing v_250115052705_vfc3d (11/10931)
+2025-01-16 11:24:13,027 - INFO - Successfully processed v_250115052705_vfc3d
+2025-01-16 11:24:13,027 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d_720.txt to /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d.txt
+2025-01-16 11:24:13,028 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d_720.vtt to /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d.vtt
+2025-01-16 11:24:13,028 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d_720.srt to /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d.srt
+2025-01-16 11:24:13,028 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d_720.json to /var/www/html/conspyre.tv/videos/v_250115052705_vfc3d/v_250115052705_vfc3d.json
+2025-01-16 11:24:13,032 - INFO - Processing video_250112034727_v80f4 (12/10931)
+2025-01-16 11:28:24,424 - INFO - Successfully processed video_250112034727_v80f4
+2025-01-16 11:28:24,424 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4_360.txt to /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4.txt
+2025-01-16 11:28:24,424 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4_360.vtt to /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4.vtt
+2025-01-16 11:28:24,424 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4_360.srt to /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4.srt
+2025-01-16 11:28:24,424 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4_360.json to /var/www/html/conspyre.tv/videos/video_250112034727_v80f4/video_250112034727_v80f4.json
+2025-01-16 11:28:24,429 - INFO - Processing video_250112034127_vfb40 (13/10931)
+2025-01-16 11:35:08,064 - INFO - Successfully processed video_250112034127_vfb40
+2025-01-16 11:35:08,064 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40_720.txt to /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40.txt
+2025-01-16 11:35:08,064 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40_720.vtt to /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40.vtt
+2025-01-16 11:35:08,064 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40_720.srt to /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40.srt
+2025-01-16 11:35:08,064 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40_720.json to /var/www/html/conspyre.tv/videos/video_250112034127_vfb40/video_250112034127_vfb40.json
+2025-01-16 11:35:08,070 - INFO - Processing video_250112024142_v6627 (14/10931)
+2025-01-16 11:40:25,495 - INFO - Successfully processed video_250112024142_v6627
+2025-01-16 11:40:25,496 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627_360.txt to /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627.txt
+2025-01-16 11:40:25,496 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627_360.vtt to /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627.vtt
+2025-01-16 11:40:25,496 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627_360.srt to /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627.srt
+2025-01-16 11:40:25,496 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627_360.json to /var/www/html/conspyre.tv/videos/video_250112024142_v6627/video_250112024142_v6627.json
+2025-01-16 11:40:25,502 - INFO - Processing video_250112023504_v6b7e (15/10931)
+2025-01-16 11:47:53,855 - INFO - Successfully processed video_250112023504_v6b7e
+2025-01-16 11:47:53,855 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e_720.txt to /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e.txt
+2025-01-16 11:47:53,855 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e_720.vtt to /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e.vtt
+2025-01-16 11:47:53,855 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e_720.srt to /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e.srt
+2025-01-16 11:47:53,855 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e_720.json to /var/www/html/conspyre.tv/videos/video_250112023504_v6b7e/video_250112023504_v6b7e.json
+2025-01-16 11:47:53,861 - INFO - Processing video_250112010904_v8812 (16/10931)
+2025-01-16 11:59:08,714 - INFO - Successfully processed video_250112010904_v8812
+2025-01-16 11:59:08,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812_720.txt to /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812.txt
+2025-01-16 11:59:08,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812_720.vtt to /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812.vtt
+2025-01-16 11:59:08,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812_720.srt to /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812.srt
+2025-01-16 11:59:08,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812_720.json to /var/www/html/conspyre.tv/videos/video_250112010904_v8812/video_250112010904_v8812.json
+2025-01-16 11:59:08,720 - INFO - Processing v_250112013008_vd5d0 (17/10931)
+2025-01-16 12:05:12,398 - INFO - Successfully processed v_250112013008_vd5d0
+2025-01-16 12:05:12,398 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0_720.txt to /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0.txt
+2025-01-16 12:05:12,398 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0_720.vtt to /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0.vtt
+2025-01-16 12:05:12,398 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0_720.srt to /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0.srt
+2025-01-16 12:05:12,399 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0_720.json to /var/www/html/conspyre.tv/videos/v_250112013008_vd5d0/v_250112013008_vd5d0.json
+2025-01-16 12:05:12,403 - INFO - Processing v_250115043204_vb7b6 (18/10931)
+2025-01-16 12:07:10,297 - INFO - Successfully processed v_250115043204_vb7b6
+2025-01-16 12:07:10,298 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6_720.txt to /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6.txt
+2025-01-16 12:07:10,298 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6_720.vtt to /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6.vtt
+2025-01-16 12:07:10,298 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6_720.srt to /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6.srt
+2025-01-16 12:07:10,298 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6_720.json to /var/www/html/conspyre.tv/videos/v_250115043204_vb7b6/v_250115043204_vb7b6.json
+2025-01-16 12:07:10,303 - INFO - Processing v_250108025631_v6681 (19/10931)
+2025-01-16 12:23:54,951 - INFO - Successfully processed v_250108025631_v6681
+2025-01-16 12:23:54,951 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681_720.txt to /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681.txt
+2025-01-16 12:23:54,951 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681_720.vtt to /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681.vtt
+2025-01-16 12:23:54,952 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681_720.srt to /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681.srt
+2025-01-16 12:23:54,952 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681_720.json to /var/www/html/conspyre.tv/videos/v_250108025631_v6681/v_250108025631_v6681.json
+2025-01-16 12:23:54,957 - INFO - Processing v_250108010616_v5025 (20/10931)
+2025-01-16 12:30:44,555 - INFO - Successfully processed v_250108010616_v5025
+2025-01-16 12:30:44,556 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025_480.txt to /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025.txt
+2025-01-16 12:30:44,556 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025_480.vtt to /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025.vtt
+2025-01-16 12:30:44,556 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025_480.srt to /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025.srt
+2025-01-16 12:30:44,556 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025_480.json to /var/www/html/conspyre.tv/videos/v_250108010616_v5025/v_250108010616_v5025.json
+2025-01-16 12:30:44,561 - INFO - Processing v_250108030433_va7b5 (21/10931)
+2025-01-16 12:41:14,769 - INFO - Successfully processed v_250108030433_va7b5
+2025-01-16 12:41:14,770 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5_240.txt to /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5.txt
+2025-01-16 12:41:14,770 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5_240.vtt to /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5.vtt
+2025-01-16 12:41:14,770 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5_240.srt to /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5.srt
+2025-01-16 12:41:14,770 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5_240.json to /var/www/html/conspyre.tv/videos/v_250108030433_va7b5/v_250108030433_va7b5.json
+2025-01-16 12:41:14,775 - INFO - Processing video_250106192611_v3171 (22/10931)
+2025-01-16 13:29:24,031 - INFO - Successfully processed video_250106192611_v3171
+2025-01-16 13:29:24,031 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171_360.txt to /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171.txt
+2025-01-16 13:29:24,032 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171_360.vtt to /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171.vtt
+2025-01-16 13:29:24,032 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171_360.srt to /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171.srt
+2025-01-16 13:29:24,032 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171_360.json to /var/www/html/conspyre.tv/videos/video_250106192611_v3171/video_250106192611_v3171.json
+2025-01-16 13:29:24,037 - INFO - Processing v_250106224014_v4fc5 (23/10931)
+2025-01-16 13:34:51,050 - INFO - Successfully processed v_250106224014_v4fc5
+2025-01-16 13:34:51,051 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5_720.txt to /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5.txt
+2025-01-16 13:34:51,051 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5_720.vtt to /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5.vtt
+2025-01-16 13:34:51,051 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5_720.srt to /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5.srt
+2025-01-16 13:34:51,051 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5_720.json to /var/www/html/conspyre.tv/videos/v_250106224014_v4fc5/v_250106224014_v4fc5.json
+2025-01-16 13:34:51,056 - INFO - Processing v_250108034454_v6f3e (24/10931)
+2025-01-16 13:41:05,770 - INFO - Successfully processed v_250108034454_v6f3e
+2025-01-16 13:41:05,770 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e_480.txt to /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e.txt
+2025-01-16 13:41:05,771 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e_480.vtt to /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e.vtt
+2025-01-16 13:41:05,771 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e_480.srt to /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e.srt
+2025-01-16 13:41:05,771 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e_480.json to /var/www/html/conspyre.tv/videos/v_250108034454_v6f3e/v_250108034454_v6f3e.json
+2025-01-16 13:41:05,775 - INFO - Processing video_250106044552_ve209 (25/10931)
+2025-01-16 14:16:24,172 - INFO - Successfully processed video_250106044552_ve209
+2025-01-16 14:16:24,173 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209_360.txt to /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209.txt
+2025-01-16 14:16:24,173 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209_360.vtt to /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209.vtt
+2025-01-16 14:16:24,173 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209_360.srt to /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209.srt
+2025-01-16 14:16:24,173 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209_360.json to /var/www/html/conspyre.tv/videos/video_250106044552_ve209/video_250106044552_ve209.json
+2025-01-16 14:16:24,178 - INFO - Processing video_250106044322_vfe65 (26/10931)
+2025-01-16 14:17:04,119 - INFO - Successfully processed video_250106044322_vfe65
+2025-01-16 14:17:04,119 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65_720.txt to /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65.txt
+2025-01-16 14:17:04,119 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65_720.vtt to /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65.vtt
+2025-01-16 14:17:04,119 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65_720.srt to /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65.srt
+2025-01-16 14:17:04,119 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65_720.json to /var/www/html/conspyre.tv/videos/video_250106044322_vfe65/video_250106044322_vfe65.json
+2025-01-16 14:17:04,124 - INFO - Processing video_250106044138_v3abb (27/10931)
+2025-01-16 14:19:27,268 - INFO - Successfully processed video_250106044138_v3abb
+2025-01-16 14:19:27,269 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb_720.txt to /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb.txt
+2025-01-16 14:19:27,269 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb_720.vtt to /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb.vtt
+2025-01-16 14:19:27,269 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb_720.srt to /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb.srt
+2025-01-16 14:19:27,269 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb_720.json to /var/www/html/conspyre.tv/videos/video_250106044138_v3abb/video_250106044138_v3abb.json
+2025-01-16 14:19:27,280 - INFO - Processing video_250106043801_vb5ea (28/10931)
+2025-01-16 14:40:18,465 - INFO - Successfully processed video_250106043801_vb5ea
+2025-01-16 14:40:18,466 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea_480.txt to /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea.txt
+2025-01-16 14:40:18,466 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea_480.vtt to /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea.vtt
+2025-01-16 14:40:18,466 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea_480.srt to /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea.srt
+2025-01-16 14:40:18,466 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea_480.json to /var/www/html/conspyre.tv/videos/video_250106043801_vb5ea/video_250106043801_vb5ea.json
+2025-01-16 14:40:18,471 - INFO - Processing video_250106043345_vd99b (29/10931)
+2025-01-16 15:11:34,799 - INFO - Successfully processed video_250106043345_vd99b
+2025-01-16 15:11:34,800 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b_720.txt to /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b.txt
+2025-01-16 15:11:34,800 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b_720.vtt to /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b.vtt
+2025-01-16 15:11:34,800 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b_720.srt to /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b.srt
+2025-01-16 15:11:34,800 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b_720.json to /var/www/html/conspyre.tv/videos/video_250106043345_vd99b/video_250106043345_vd99b.json
+2025-01-16 15:11:34,805 - INFO - Processing video_250106043034_v9c24 (30/10931)
+2025-01-16 16:00:22,834 - INFO - Successfully processed video_250106043034_v9c24
+2025-01-16 16:00:22,835 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24_720.txt to /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24.txt
+2025-01-16 16:00:22,835 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24_720.vtt to /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24.vtt
+2025-01-16 16:00:22,835 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24_720.srt to /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24.srt
+2025-01-16 16:00:22,835 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24_720.json to /var/www/html/conspyre.tv/videos/video_250106043034_v9c24/video_250106043034_v9c24.json
+2025-01-16 16:00:22,840 - INFO - Processing video_250106042443_vce46 (31/10931)
+2025-01-16 16:06:47,560 - INFO - Successfully processed video_250106042443_vce46
+2025-01-16 16:06:47,561 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46_720.txt to /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46.txt
+2025-01-16 16:06:47,561 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46_720.vtt to /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46.vtt
+2025-01-16 16:06:47,561 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46_720.srt to /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46.srt
+2025-01-16 16:06:47,561 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46_720.json to /var/www/html/conspyre.tv/videos/video_250106042443_vce46/video_250106042443_vce46.json
+2025-01-16 16:06:47,566 - INFO - Processing video_250106042235_v287d (32/10931)
+2025-01-16 16:08:27,749 - INFO - Successfully processed video_250106042235_v287d
+2025-01-16 16:08:27,750 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d_720.txt to /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d.txt
+2025-01-16 16:08:27,750 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d_720.vtt to /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d.vtt
+2025-01-16 16:08:27,750 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d_720.srt to /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d.srt
+2025-01-16 16:08:27,750 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d_720.json to /var/www/html/conspyre.tv/videos/video_250106042235_v287d/video_250106042235_v287d.json
+2025-01-16 16:08:27,755 - INFO - Processing video_250106042100_v1b15 (33/10931)
+2025-01-16 16:09:54,981 - INFO - Successfully processed video_250106042100_v1b15
+2025-01-16 16:09:54,981 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15_720.txt to /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15.txt
+2025-01-16 16:09:54,981 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15_720.vtt to /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15.vtt
+2025-01-16 16:09:54,982 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15_720.srt to /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15.srt
+2025-01-16 16:09:54,982 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15_720.json to /var/www/html/conspyre.tv/videos/video_250106042100_v1b15/video_250106042100_v1b15.json
+2025-01-16 16:09:54,987 - INFO - Processing video_250106041950_v4841 (34/10931)
+2025-01-16 16:14:00,822 - INFO - Successfully processed video_250106041950_v4841
+2025-01-16 16:14:00,822 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841_720.txt to /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841.txt
+2025-01-16 16:14:00,823 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841_720.vtt to /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841.vtt
+2025-01-16 16:14:00,823 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841_720.srt to /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841.srt
+2025-01-16 16:14:00,823 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841_720.json to /var/www/html/conspyre.tv/videos/video_250106041950_v4841/video_250106041950_v4841.json
+2025-01-16 16:14:00,828 - INFO - Processing video_250106041857_v6c78 (35/10931)
+2025-01-16 16:23:39,392 - INFO - Successfully processed video_250106041857_v6c78
+2025-01-16 16:23:39,393 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78_720.txt to /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78.txt
+2025-01-16 16:23:39,393 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78_720.vtt to /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78.vtt
+2025-01-16 16:23:39,393 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78_720.srt to /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78.srt
+2025-01-16 16:23:39,393 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78_720.json to /var/www/html/conspyre.tv/videos/video_250106041857_v6c78/video_250106041857_v6c78.json
+2025-01-16 16:23:39,399 - INFO - Processing video_250106041801_v348e (36/10931)
+2025-01-16 16:35:24,692 - INFO - Successfully processed video_250106041801_v348e
+2025-01-16 16:35:24,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e_720.txt to /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e.txt
+2025-01-16 16:35:24,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e_720.vtt to /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e.vtt
+2025-01-16 16:35:24,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e_720.srt to /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e.srt
+2025-01-16 16:35:24,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e_720.json to /var/www/html/conspyre.tv/videos/video_250106041801_v348e/video_250106041801_v348e.json
+2025-01-16 16:35:24,699 - INFO - Processing video_250106041618_ve83c (37/10931)
+2025-01-16 16:45:53,225 - INFO - Successfully processed video_250106041618_ve83c
+2025-01-16 16:45:53,226 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c_720.txt to /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c.txt
+2025-01-16 16:45:53,226 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c_720.vtt to /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c.vtt
+2025-01-16 16:45:53,226 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c_720.srt to /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c.srt
+2025-01-16 16:45:53,226 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c_720.json to /var/www/html/conspyre.tv/videos/video_250106041618_ve83c/video_250106041618_ve83c.json
+2025-01-16 16:45:53,232 - INFO - Processing video_250106040819_v931c (38/10931)
+2025-01-16 18:07:34,603 - INFO - Successfully processed video_250106040819_v931c
+2025-01-16 18:07:34,603 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c_720.txt to /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c.txt
+2025-01-16 18:07:34,603 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c_720.vtt to /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c.vtt
+2025-01-16 18:07:34,603 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c_720.srt to /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c.srt
+2025-01-16 18:07:34,603 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c_720.json to /var/www/html/conspyre.tv/videos/video_250106040819_v931c/video_250106040819_v931c.json
+2025-01-16 18:07:34,609 - INFO - Processing video_250106040553_v07d4 (39/10931)
+2025-01-16 18:13:03,638 - INFO - Successfully processed video_250106040553_v07d4
+2025-01-16 18:13:03,638 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4_480.txt to /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4.txt
+2025-01-16 18:13:03,639 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4_480.vtt to /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4.vtt
+2025-01-16 18:13:03,639 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4_480.srt to /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4.srt
+2025-01-16 18:13:03,639 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4_480.json to /var/www/html/conspyre.tv/videos/video_250106040553_v07d4/video_250106040553_v07d4.json
+2025-01-16 18:13:03,644 - INFO - Processing video_250106040210_vf8a2 (40/10931)
+2025-01-16 19:06:47,162 - INFO - Successfully processed video_250106040210_vf8a2
+2025-01-16 19:06:47,162 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2_720.txt to /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2.txt
+2025-01-16 19:06:47,162 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2_720.vtt to /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2.vtt
+2025-01-16 19:06:47,162 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2_720.srt to /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2.srt
+2025-01-16 19:06:47,162 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2_720.json to /var/www/html/conspyre.tv/videos/video_250106040210_vf8a2/video_250106040210_vf8a2.json
+2025-01-16 19:06:47,168 - INFO - Processing v_250106035804_vb7f6 (41/10931)
+2025-01-16 19:07:09,646 - INFO - Successfully processed v_250106035804_vb7f6
+2025-01-16 19:07:09,646 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6_720.txt to /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6.txt
+2025-01-16 19:07:09,646 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6_720.vtt to /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6.vtt
+2025-01-16 19:07:09,646 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6_720.srt to /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6.srt
+2025-01-16 19:07:09,646 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6_720.json to /var/www/html/conspyre.tv/videos/v_250106035804_vb7f6/v_250106035804_vb7f6.json
+2025-01-16 19:07:09,651 - INFO - Processing v_250106035816_vfdc3 (42/10931)
+2025-01-16 19:08:51,380 - INFO - Successfully processed v_250106035816_vfdc3
+2025-01-16 19:08:51,380 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3_720.txt to /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3.txt
+2025-01-16 19:08:51,380 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3_720.vtt to /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3.vtt
+2025-01-16 19:08:51,381 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3_720.srt to /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3.srt
+2025-01-16 19:08:51,381 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3_720.json to /var/www/html/conspyre.tv/videos/v_250106035816_vfdc3/v_250106035816_vfdc3.json
+2025-01-16 19:08:51,387 - INFO - Processing v_250106035832_v926d (43/10931)
+2025-01-16 19:09:42,874 - INFO - Successfully processed v_250106035832_v926d
+2025-01-16 19:09:42,874 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d_720.txt to /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d.txt
+2025-01-16 19:09:42,874 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d_720.vtt to /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d.vtt
+2025-01-16 19:09:42,874 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d_720.srt to /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d.srt
+2025-01-16 19:09:42,874 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d_720.json to /var/www/html/conspyre.tv/videos/v_250106035832_v926d/v_250106035832_v926d.json
+2025-01-16 19:09:42,879 - INFO - Processing v_250106135101_v0b57 (44/10931)
+2025-01-16 19:11:21,536 - INFO - Successfully processed v_250106135101_v0b57
+2025-01-16 19:11:21,536 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57_720.txt to /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57.txt
+2025-01-16 19:11:21,536 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57_720.vtt to /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57.vtt
+2025-01-16 19:11:21,536 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57_720.srt to /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57.srt
+2025-01-16 19:11:21,536 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57_720.json to /var/www/html/conspyre.tv/videos/v_250106135101_v0b57/v_250106135101_v0b57.json
+2025-01-16 19:11:21,541 - INFO - Processing v_250106142106_v347c (45/10931)
+2025-01-16 19:14:17,521 - INFO - Successfully processed v_250106142106_v347c
+2025-01-16 19:14:17,521 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c_720.txt to /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c.txt
+2025-01-16 19:14:17,521 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c_720.vtt to /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c.vtt
+2025-01-16 19:14:17,521 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c_720.srt to /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c.srt
+2025-01-16 19:14:17,521 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c_720.json to /var/www/html/conspyre.tv/videos/v_250106142106_v347c/v_250106142106_v347c.json
+2025-01-16 19:14:17,526 - INFO - Processing v_250106142807_v7159 (46/10931)
+2025-01-16 19:15:55,053 - INFO - Successfully processed v_250106142807_v7159
+2025-01-16 19:15:55,054 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159_720.txt to /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159.txt
+2025-01-16 19:15:55,054 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159_720.vtt to /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159.vtt
+2025-01-16 19:15:55,054 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159_720.srt to /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159.srt
+2025-01-16 19:15:55,054 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159_720.json to /var/www/html/conspyre.tv/videos/v_250106142807_v7159/v_250106142807_v7159.json
+2025-01-16 19:15:55,059 - INFO - Processing v_250106144123_va56d (47/10931)
+2025-01-16 19:18:36,785 - INFO - Successfully processed v_250106144123_va56d
+2025-01-16 19:18:36,785 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d_720.txt to /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d.txt
+2025-01-16 19:18:36,786 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d_720.vtt to /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d.vtt
+2025-01-16 19:18:36,786 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d_720.srt to /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d.srt
+2025-01-16 19:18:36,786 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d_720.json to /var/www/html/conspyre.tv/videos/v_250106144123_va56d/v_250106144123_va56d.json
+2025-01-16 19:18:36,791 - INFO - Processing v_250106150654_v8dcc (48/10931)
+2025-01-16 19:23:24,669 - INFO - Successfully processed v_250106150654_v8dcc
+2025-01-16 19:23:24,670 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc_720.txt to /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc.txt
+2025-01-16 19:23:24,670 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc_720.vtt to /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc.vtt
+2025-01-16 19:23:24,670 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc_720.srt to /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc.srt
+2025-01-16 19:23:24,670 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc_720.json to /var/www/html/conspyre.tv/videos/v_250106150654_v8dcc/v_250106150654_v8dcc.json
+2025-01-16 19:23:24,675 - INFO - Processing v_250106151157_v966f (49/10931)
+2025-01-16 19:25:43,759 - INFO - Successfully processed v_250106151157_v966f
+2025-01-16 19:25:43,759 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f_360.txt to /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f.txt
+2025-01-16 19:25:43,759 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f_360.vtt to /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f.vtt
+2025-01-16 19:25:43,759 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f_360.srt to /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f.srt
+2025-01-16 19:25:43,759 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f_360.json to /var/www/html/conspyre.tv/videos/v_250106151157_v966f/v_250106151157_v966f.json
+2025-01-16 19:25:43,766 - INFO - Processing v_250106151205_v4f5b (50/10931)
+2025-01-16 19:35:26,892 - INFO - Successfully processed v_250106151205_v4f5b
+2025-01-16 19:35:26,893 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b_720.txt to /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b.txt
+2025-01-16 19:35:26,893 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b_720.vtt to /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b.vtt
+2025-01-16 19:35:26,893 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b_720.srt to /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b.srt
+2025-01-16 19:35:26,893 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b_720.json to /var/www/html/conspyre.tv/videos/v_250106151205_v4f5b/v_250106151205_v4f5b.json
+2025-01-16 19:35:26,899 - INFO - Processing v_250106151330_vd100 (51/10931)
+2025-01-16 19:36:43,388 - INFO - Successfully processed v_250106151330_vd100
+2025-01-16 19:36:43,388 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100_480.txt to /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100.txt
+2025-01-16 19:36:43,389 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100_480.vtt to /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100.vtt
+2025-01-16 19:36:43,389 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100_480.srt to /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100.srt
+2025-01-16 19:36:43,389 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100_480.json to /var/www/html/conspyre.tv/videos/v_250106151330_vd100/v_250106151330_vd100.json
+2025-01-16 19:36:43,394 - INFO - Processing v_250106151741_vfd91 (52/10931)
+2025-01-16 19:37:23,560 - INFO - Successfully processed v_250106151741_vfd91
+2025-01-16 19:37:23,560 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91_720.txt to /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91.txt
+2025-01-16 19:37:23,560 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91_720.vtt to /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91.vtt
+2025-01-16 19:37:23,560 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91_720.srt to /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91.srt
+2025-01-16 19:37:23,560 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91_720.json to /var/www/html/conspyre.tv/videos/v_250106151741_vfd91/v_250106151741_vfd91.json
+2025-01-16 19:37:23,566 - INFO - Processing v_250106160459_v4032 (53/10931)
+2025-01-16 19:42:07,405 - INFO - Successfully processed v_250106160459_v4032
+2025-01-16 19:42:07,406 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032_720.txt to /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032.txt
+2025-01-16 19:42:07,406 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032_720.vtt to /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032.vtt
+2025-01-16 19:42:07,406 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032_720.srt to /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032.srt
+2025-01-16 19:42:07,406 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032_720.json to /var/www/html/conspyre.tv/videos/v_250106160459_v4032/v_250106160459_v4032.json
+2025-01-16 19:42:07,411 - INFO - Processing v_250106160629_vd610 (54/10931)
+2025-01-16 19:43:01,306 - INFO - Successfully processed v_250106160629_vd610
+2025-01-16 19:43:01,307 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610_720.txt to /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610.txt
+2025-01-16 19:43:01,307 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610_720.vtt to /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610.vtt
+2025-01-16 19:43:01,307 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610_720.srt to /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610.srt
+2025-01-16 19:43:01,307 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610_720.json to /var/www/html/conspyre.tv/videos/v_250106160629_vd610/v_250106160629_vd610.json
+2025-01-16 19:43:01,313 - INFO - Processing v_250106175452_v89b8 (55/10931)
+2025-01-16 19:44:04,662 - INFO - Successfully processed v_250106175452_v89b8
+2025-01-16 19:44:04,663 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8_720.txt to /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8.txt
+2025-01-16 19:44:04,663 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8_720.vtt to /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8.vtt
+2025-01-16 19:44:04,663 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8_720.srt to /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8.srt
+2025-01-16 19:44:04,663 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8_720.json to /var/www/html/conspyre.tv/videos/v_250106175452_v89b8/v_250106175452_v89b8.json
+2025-01-16 19:44:04,668 - INFO - Processing v_250106182852_vf7f7 (56/10931)
+2025-01-16 19:44:51,141 - INFO - Successfully processed v_250106182852_vf7f7
+2025-01-16 19:44:51,142 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7_720.txt to /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7.txt
+2025-01-16 19:44:51,142 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7_720.vtt to /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7.vtt
+2025-01-16 19:44:51,142 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7_720.srt to /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7.srt
+2025-01-16 19:44:51,142 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7_720.json to /var/www/html/conspyre.tv/videos/v_250106182852_vf7f7/v_250106182852_vf7f7.json
+2025-01-16 19:44:51,147 - INFO - Processing v_250106211913_va2ce (57/10931)
+2025-01-16 19:45:31,150 - INFO - Successfully processed v_250106211913_va2ce
+2025-01-16 19:45:31,150 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce_720.txt to /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce.txt
+2025-01-16 19:45:31,150 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce_720.vtt to /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce.vtt
+2025-01-16 19:45:31,151 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce_720.srt to /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce.srt
+2025-01-16 19:45:31,151 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce_720.json to /var/www/html/conspyre.tv/videos/v_250106211913_va2ce/v_250106211913_va2ce.json
+2025-01-16 19:45:31,156 - INFO - Processing v_250106232031_vf6b3 (58/10931)
+2025-01-16 19:49:04,902 - INFO - Successfully processed v_250106232031_vf6b3
+2025-01-16 19:49:04,902 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3_720.txt to /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3.txt
+2025-01-16 19:49:04,902 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3_720.vtt to /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3.vtt
+2025-01-16 19:49:04,903 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3_720.srt to /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3.srt
+2025-01-16 19:49:04,903 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3_720.json to /var/www/html/conspyre.tv/videos/v_250106232031_vf6b3/v_250106232031_vf6b3.json
+2025-01-16 19:49:04,908 - INFO - Processing v_250107001458_v64b5 (59/10931)
+2025-01-16 20:18:51,692 - INFO - Successfully processed v_250107001458_v64b5
+2025-01-16 20:18:51,692 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5_360.txt to /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5.txt
+2025-01-16 20:18:51,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5_360.vtt to /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5.vtt
+2025-01-16 20:18:51,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5_360.srt to /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5.srt
+2025-01-16 20:18:51,693 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5_360.json to /var/www/html/conspyre.tv/videos/v_250107001458_v64b5/v_250107001458_v64b5.json
+2025-01-16 20:18:51,698 - INFO - Processing v_250105010739_vf0e4 (60/10931)
+2025-01-16 20:19:39,559 - INFO - Successfully processed v_250105010739_vf0e4
+2025-01-16 20:19:39,559 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4_720.txt to /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4.txt
+2025-01-16 20:19:39,559 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4_720.vtt to /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4.vtt
+2025-01-16 20:19:39,559 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4_720.srt to /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4.srt
+2025-01-16 20:19:39,559 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4_720.json to /var/www/html/conspyre.tv/videos/v_250105010739_vf0e4/v_250105010739_vf0e4.json
+2025-01-16 20:19:39,565 - INFO - Processing v_250105151836_v109c (61/10931)
+2025-01-16 20:23:43,425 - INFO - Successfully processed v_250105151836_v109c
+2025-01-16 20:23:43,425 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c_720.txt to /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c.txt
+2025-01-16 20:23:43,425 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c_720.vtt to /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c.vtt
+2025-01-16 20:23:43,425 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c_720.srt to /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c.srt
+2025-01-16 20:23:43,425 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c_720.json to /var/www/html/conspyre.tv/videos/v_250105151836_v109c/v_250105151836_v109c.json
+2025-01-16 20:23:43,431 - INFO - Processing v_250105155037_v1f75 (62/10931)
+2025-01-16 20:25:54,819 - INFO - Successfully processed v_250105155037_v1f75
+2025-01-16 20:25:54,820 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75_480.txt to /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75.txt
+2025-01-16 20:25:54,820 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75_480.vtt to /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75.vtt
+2025-01-16 20:25:54,820 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75_480.srt to /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75.srt
+2025-01-16 20:25:54,820 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75_480.json to /var/www/html/conspyre.tv/videos/v_250105155037_v1f75/v_250105155037_v1f75.json
+2025-01-16 20:25:54,826 - INFO - Processing v_250105155615_v2ad7 (63/10931)
+2025-01-16 20:29:00,091 - INFO - Successfully processed v_250105155615_v2ad7
+2025-01-16 20:29:00,092 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7_720.txt to /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7.txt
+2025-01-16 20:29:00,092 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7_720.vtt to /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7.vtt
+2025-01-16 20:29:00,093 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7_720.srt to /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7.srt
+2025-01-16 20:29:00,093 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7_720.json to /var/www/html/conspyre.tv/videos/v_250105155615_v2ad7/v_250105155615_v2ad7.json
+2025-01-16 20:29:00,100 - INFO - Processing v_250105162553_vacc9 (64/10931)
+2025-01-16 20:32:16,585 - INFO - Successfully processed v_250105162553_vacc9
+2025-01-16 20:32:16,586 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9_720.txt to /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9.txt
+2025-01-16 20:32:16,586 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9_720.vtt to /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9.vtt
+2025-01-16 20:32:16,586 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9_720.srt to /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9.srt
+2025-01-16 20:32:16,586 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9_720.json to /var/www/html/conspyre.tv/videos/v_250105162553_vacc9/v_250105162553_vacc9.json
+2025-01-16 20:32:16,591 - INFO - Processing v_250105165645_ve0f5 (65/10931)
+2025-01-16 20:35:01,948 - INFO - Successfully processed v_250105165645_ve0f5
+2025-01-16 20:35:01,948 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5_720.txt to /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5.txt
+2025-01-16 20:35:01,948 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5_720.vtt to /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5.vtt
+2025-01-16 20:35:01,948 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5_720.srt to /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5.srt
+2025-01-16 20:35:01,948 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5_720.json to /var/www/html/conspyre.tv/videos/v_250105165645_ve0f5/v_250105165645_ve0f5.json
+2025-01-16 20:35:01,954 - INFO - Processing v_250105171716_vc5d2 (66/10931)
+2025-01-16 20:38:26,805 - INFO - Successfully processed v_250105171716_vc5d2
+2025-01-16 20:38:26,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2_720.txt to /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2.txt
+2025-01-16 20:38:26,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2_720.vtt to /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2.vtt
+2025-01-16 20:38:26,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2_720.srt to /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2.srt
+2025-01-16 20:38:26,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2_720.json to /var/www/html/conspyre.tv/videos/v_250105171716_vc5d2/v_250105171716_vc5d2.json
+2025-01-16 20:38:26,813 - INFO - Processing v_250105184534_v6fb4 (67/10931)
+2025-01-16 21:14:19,788 - INFO - Successfully processed v_250105184534_v6fb4
+2025-01-16 21:14:19,788 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4_480.txt to /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4.txt
+2025-01-16 21:14:19,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4_480.vtt to /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4.vtt
+2025-01-16 21:14:19,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4_480.srt to /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4.srt
+2025-01-16 21:14:19,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4_480.json to /var/www/html/conspyre.tv/videos/v_250105184534_v6fb4/v_250105184534_v6fb4.json
+2025-01-16 21:14:19,794 - INFO - Processing v_250106144102_vbdae (68/10931)
+2025-01-16 21:15:27,722 - INFO - Successfully processed v_250106144102_vbdae
+2025-01-16 21:15:27,723 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae_720.txt to /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae.txt
+2025-01-16 21:15:27,723 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae_720.vtt to /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae.vtt
+2025-01-16 21:15:27,723 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae_720.srt to /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae.srt
+2025-01-16 21:15:27,723 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae_720.json to /var/www/html/conspyre.tv/videos/v_250106144102_vbdae/v_250106144102_vbdae.json
+2025-01-16 21:15:27,728 - INFO - Processing v_250106190959_vcad5 (69/10931)
+2025-01-16 21:16:53,502 - INFO - Successfully processed v_250106190959_vcad5
+2025-01-16 21:16:53,502 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5_720.txt to /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5.txt
+2025-01-16 21:16:53,503 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5_720.vtt to /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5.vtt
+2025-01-16 21:16:53,503 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5_720.srt to /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5.srt
+2025-01-16 21:16:53,503 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5_720.json to /var/www/html/conspyre.tv/videos/v_250106190959_vcad5/v_250106190959_vcad5.json
+2025-01-16 21:16:53,509 - INFO - Processing v_250107051900_vd932 (70/10931)
+2025-01-16 21:22:49,989 - INFO - Successfully processed v_250107051900_vd932
+2025-01-16 21:22:49,990 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932_720.txt to /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932.txt
+2025-01-16 21:22:49,990 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932_720.vtt to /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932.vtt
+2025-01-16 21:22:49,990 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932_720.srt to /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932.srt
+2025-01-16 21:22:49,990 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932_720.json to /var/www/html/conspyre.tv/videos/v_250107051900_vd932/v_250107051900_vd932.json
+2025-01-16 21:22:49,996 - INFO - Processing v_250107184302_vd3f9 (71/10931)
+2025-01-16 21:28:49,024 - INFO - Successfully processed v_250107184302_vd3f9
+2025-01-16 21:28:49,024 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9_720.txt to /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9.txt
+2025-01-16 21:28:49,024 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9.vtt
+2025-01-16 21:28:49,025 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9_720.srt to /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9.srt
+2025-01-16 21:28:49,025 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9_720.json to /var/www/html/conspyre.tv/videos/v_250107184302_vd3f9/v_250107184302_vd3f9.json
+2025-01-16 21:28:49,030 - INFO - Processing v_250108030021_v698a (72/10931)
+2025-01-16 22:03:20,295 - INFO - Successfully processed v_250108030021_v698a
+2025-01-16 22:03:20,295 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a_480.txt to /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a.txt
+2025-01-16 22:03:20,295 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a_480.vtt to /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a.vtt
+2025-01-16 22:03:20,295 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a_480.srt to /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a.srt
+2025-01-16 22:03:20,295 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a_480.json to /var/www/html/conspyre.tv/videos/v_250108030021_v698a/v_250108030021_v698a.json
+2025-01-16 22:03:20,301 - INFO - Processing video_250104135411_ve561 (73/10931)
+2025-01-16 22:11:56,652 - INFO - Successfully processed video_250104135411_ve561
+2025-01-16 22:11:56,659 - INFO - Processing video_250104134525_v0d79 (74/10931)
+2025-01-16 22:30:33,139 - INFO - Successfully processed video_250104134525_v0d79
+2025-01-16 22:30:33,145 - INFO - Processing video_250104002625_v4a5b (75/10931)
+2025-01-16 22:38:43,752 - INFO - Successfully processed video_250104002625_v4a5b
+2025-01-16 22:38:43,753 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b_360.txt to /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b.txt
+2025-01-16 22:38:43,753 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b_360.vtt to /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b.vtt
+2025-01-16 22:38:43,753 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b_360.srt to /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b.srt
+2025-01-16 22:38:43,753 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b_360.json to /var/www/html/conspyre.tv/videos/video_250104002625_v4a5b/video_250104002625_v4a5b.json
+2025-01-16 22:38:43,758 - INFO - Processing video_250104002315_ve1b6 (76/10931)
+2025-01-16 22:48:43,142 - INFO - Successfully processed video_250104002315_ve1b6
+2025-01-16 22:48:43,142 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6_360.txt to /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6.txt
+2025-01-16 22:48:43,142 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6_360.vtt to /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6.vtt
+2025-01-16 22:48:43,143 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6_360.srt to /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6.srt
+2025-01-16 22:48:43,143 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6_360.json to /var/www/html/conspyre.tv/videos/video_250104002315_ve1b6/video_250104002315_ve1b6.json
+2025-01-16 22:48:43,148 - INFO - Processing v_250103235312_v258d (77/10931)
+2025-01-16 23:19:58,900 - INFO - Successfully processed v_250103235312_v258d
+2025-01-16 23:19:58,900 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d_720.txt to /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d.txt
+2025-01-16 23:19:58,901 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d_720.vtt to /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d.vtt
+2025-01-16 23:19:58,901 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d_720.srt to /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d.srt
+2025-01-16 23:19:58,901 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d_720.json to /var/www/html/conspyre.tv/videos/v_250103235312_v258d/v_250103235312_v258d.json
+2025-01-16 23:19:58,911 - INFO - Processing v_250104001947_v330d (78/10931)
+2025-01-16 23:20:52,114 - INFO - Successfully processed v_250104001947_v330d
+2025-01-16 23:20:52,114 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d_720.txt to /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d.txt
+2025-01-16 23:20:52,114 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d_720.vtt to /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d.vtt
+2025-01-16 23:20:52,114 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d_720.srt to /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d.srt
+2025-01-16 23:20:52,114 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d_720.json to /var/www/html/conspyre.tv/videos/v_250104001947_v330d/v_250104001947_v330d.json
+2025-01-16 23:20:52,121 - INFO - Processing v_250104005501_v5630 (79/10931)
+2025-01-16 23:24:47,469 - INFO - Successfully processed v_250104005501_v5630
+2025-01-16 23:24:47,469 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630_720.txt to /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630.txt
+2025-01-16 23:24:47,469 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630_720.vtt to /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630.vtt
+2025-01-16 23:24:47,469 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630_720.srt to /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630.srt
+2025-01-16 23:24:47,470 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630_720.json to /var/www/html/conspyre.tv/videos/v_250104005501_v5630/v_250104005501_v5630.json
+2025-01-16 23:24:47,475 - INFO - Processing v_250104152342_v5e81 (80/10931)
+2025-01-16 23:29:55,935 - INFO - Successfully processed v_250104152342_v5e81
+2025-01-16 23:29:55,936 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81_720.txt to /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81.txt
+2025-01-16 23:29:55,936 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81_720.vtt to /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81.vtt
+2025-01-16 23:29:55,936 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81_720.srt to /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81.srt
+2025-01-16 23:29:55,936 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81_720.json to /var/www/html/conspyre.tv/videos/v_250104152342_v5e81/v_250104152342_v5e81.json
+2025-01-16 23:29:55,942 - INFO - Processing v_250104153208_v7da9 (81/10931)
+2025-01-16 23:31:02,182 - INFO - Successfully processed v_250104153208_v7da9
+2025-01-16 23:31:02,183 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9_360.txt to /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9.txt
+2025-01-16 23:31:02,183 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9_360.vtt to /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9.vtt
+2025-01-16 23:31:02,183 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9_360.srt to /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9.srt
+2025-01-16 23:31:02,183 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9_360.json to /var/www/html/conspyre.tv/videos/v_250104153208_v7da9/v_250104153208_v7da9.json
+2025-01-16 23:31:02,188 - INFO - Processing v_250104155451_vad59 (82/10931)
+2025-01-16 23:31:24,071 - INFO - Successfully processed v_250104155451_vad59
+2025-01-16 23:31:24,072 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59_480.txt to /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59.txt
+2025-01-16 23:31:24,072 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59_480.vtt to /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59.vtt
+2025-01-16 23:31:24,072 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59_480.srt to /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59.srt
+2025-01-16 23:31:24,073 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59_480.json to /var/www/html/conspyre.tv/videos/v_250104155451_vad59/v_250104155451_vad59.json
+2025-01-16 23:31:24,082 - INFO - Processing v_250104182145_v0fdf (83/10931)
+2025-01-16 23:32:52,445 - INFO - Successfully processed v_250104182145_v0fdf
+2025-01-16 23:32:52,446 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf_720.txt to /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf.txt
+2025-01-16 23:32:52,446 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf_720.vtt to /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf.vtt
+2025-01-16 23:32:52,446 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf_720.srt to /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf.srt
+2025-01-16 23:32:52,446 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf_720.json to /var/www/html/conspyre.tv/videos/v_250104182145_v0fdf/v_250104182145_v0fdf.json
+2025-01-16 23:32:52,451 - INFO - Processing v_250108030823_v7cbd (84/10931)
+2025-01-17 00:03:30,044 - INFO - Successfully processed v_250108030823_v7cbd
+2025-01-17 00:03:30,044 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd_480.txt to /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd.txt
+2025-01-17 00:03:30,044 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd_480.vtt to /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd.vtt
+2025-01-17 00:03:30,044 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd_480.srt to /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd.srt
+2025-01-17 00:03:30,044 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd_480.json to /var/www/html/conspyre.tv/videos/v_250108030823_v7cbd/v_250108030823_v7cbd.json
+2025-01-17 00:03:30,052 - INFO - Processing v_250108023336_v4e30 (85/10931)
+2025-01-17 00:05:38,596 - INFO - Successfully processed v_250108023336_v4e30
+2025-01-17 00:05:38,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30_720.txt to /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30.txt
+2025-01-17 00:05:38,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30_720.vtt to /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30.vtt
+2025-01-17 00:05:38,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30_720.srt to /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30.srt
+2025-01-17 00:05:38,597 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30_720.json to /var/www/html/conspyre.tv/videos/v_250108023336_v4e30/v_250108023336_v4e30.json
+2025-01-17 00:05:38,602 - INFO - Processing v_250103154812_vebad (86/10931)
+2025-01-17 00:09:43,435 - INFO - Successfully processed v_250103154812_vebad
+2025-01-17 00:09:43,435 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad_480.txt to /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad.txt
+2025-01-17 00:09:43,435 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad_480.vtt to /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad.vtt
+2025-01-17 00:09:43,435 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad_480.srt to /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad.srt
+2025-01-17 00:09:43,435 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad_480.json to /var/www/html/conspyre.tv/videos/v_250103154812_vebad/v_250103154812_vebad.json
+2025-01-17 00:09:43,442 - INFO - Processing v_250103174821_vda84 (87/10931)
+2025-01-17 00:14:55,161 - INFO - Successfully processed v_250103174821_vda84
+2025-01-17 00:14:55,161 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84_720.txt to /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84.txt
+2025-01-17 00:14:55,161 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84_720.vtt to /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84.vtt
+2025-01-17 00:14:55,162 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84_720.srt to /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84.srt
+2025-01-17 00:14:55,162 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84_720.json to /var/www/html/conspyre.tv/videos/v_250103174821_vda84/v_250103174821_vda84.json
+2025-01-17 00:14:55,168 - INFO - Processing v_250103175628_v5e99 (88/10931)
+2025-01-17 00:45:06,987 - INFO - Successfully processed v_250103175628_v5e99
+2025-01-17 00:45:06,988 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99_720.txt to /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99.txt
+2025-01-17 00:45:06,989 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99_720.vtt to /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99.vtt
+2025-01-17 00:45:06,989 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99_720.srt to /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99.srt
+2025-01-17 00:45:06,989 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99_720.json to /var/www/html/conspyre.tv/videos/v_250103175628_v5e99/v_250103175628_v5e99.json
+2025-01-17 00:45:06,999 - INFO - Processing v_250107184319_v8474 (89/10931)
+2025-01-17 00:50:21,707 - INFO - Successfully processed v_250107184319_v8474
+2025-01-17 00:50:21,707 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474_720.txt to /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474.txt
+2025-01-17 00:50:21,707 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474.vtt
+2025-01-17 00:50:21,707 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474_720.srt to /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474.srt
+2025-01-17 00:50:21,708 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474_720.json to /var/www/html/conspyre.tv/videos/v_250107184319_v8474/v_250107184319_v8474.json
+2025-01-17 00:50:21,713 - INFO - Processing v_250101225019_va7d5 (90/10931)
+2025-01-17 00:58:25,952 - INFO - Successfully processed v_250101225019_va7d5
+2025-01-17 00:58:25,952 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5_480.txt to /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5.txt
+2025-01-17 00:58:25,952 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5_480.vtt to /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5.vtt
+2025-01-17 00:58:25,953 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5_480.srt to /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5.srt
+2025-01-17 00:58:25,953 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5_480.json to /var/www/html/conspyre.tv/videos/v_250101225019_va7d5/v_250101225019_va7d5.json
+2025-01-17 00:58:25,958 - INFO - Processing v_250102012136_v118c (91/10931)
+2025-01-17 01:15:39,639 - INFO - Successfully processed v_250102012136_v118c
+2025-01-17 01:15:39,639 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c_720.txt to /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c.txt
+2025-01-17 01:15:39,640 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c_720.vtt to /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c.vtt
+2025-01-17 01:15:39,640 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c_720.srt to /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c.srt
+2025-01-17 01:15:39,640 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c_720.json to /var/www/html/conspyre.tv/videos/v_250102012136_v118c/v_250102012136_v118c.json
+2025-01-17 01:15:39,646 - INFO - Processing v_250102044059_vdcb3 (92/10931)
+2025-01-17 01:36:18,496 - INFO - Successfully processed v_250102044059_vdcb3
+2025-01-17 01:36:18,496 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3_480.txt to /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3.txt
+2025-01-17 01:36:18,497 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3_480.vtt to /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3.vtt
+2025-01-17 01:36:18,497 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3_480.srt to /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3.srt
+2025-01-17 01:36:18,497 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3_480.json to /var/www/html/conspyre.tv/videos/v_250102044059_vdcb3/v_250102044059_vdcb3.json
+2025-01-17 01:36:18,502 - INFO - Processing v_250102143030_v6a55 (93/10931)
+2025-01-17 01:44:45,104 - INFO - Successfully processed v_250102143030_v6a55
+2025-01-17 01:44:45,104 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55_480.txt to /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55.txt
+2025-01-17 01:44:45,105 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55_480.vtt to /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55.vtt
+2025-01-17 01:44:45,105 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55_480.srt to /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55.srt
+2025-01-17 01:44:45,105 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55_480.json to /var/www/html/conspyre.tv/videos/v_250102143030_v6a55/v_250102143030_v6a55.json
+2025-01-17 01:44:45,110 - INFO - Processing v_250102145751_v067c (94/10931)
+2025-01-17 01:48:45,365 - INFO - Successfully processed v_250102145751_v067c
+2025-01-17 01:48:45,365 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c_720.txt to /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c.txt
+2025-01-17 01:48:45,365 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c_720.vtt to /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c.vtt
+2025-01-17 01:48:45,366 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c_720.srt to /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c.srt
+2025-01-17 01:48:45,366 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c_720.json to /var/www/html/conspyre.tv/videos/v_250102145751_v067c/v_250102145751_v067c.json
+2025-01-17 01:48:45,371 - INFO - Processing v_250102145807_v399f (95/10931)
+2025-01-17 01:49:20,806 - INFO - Successfully processed v_250102145807_v399f
+2025-01-17 01:49:20,807 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f_720.txt to /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f.txt
+2025-01-17 01:49:20,807 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f_720.vtt to /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f.vtt
+2025-01-17 01:49:20,807 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f_720.srt to /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f.srt
+2025-01-17 01:49:20,807 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f_720.json to /var/www/html/conspyre.tv/videos/v_250102145807_v399f/v_250102145807_v399f.json
+2025-01-17 01:49:20,813 - INFO - Processing v_250102155058_v8ced (96/10931)
+2025-01-17 02:19:05,926 - INFO - Successfully processed v_250102155058_v8ced
+2025-01-17 02:19:05,927 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced_720.txt to /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced.txt
+2025-01-17 02:19:05,927 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced_720.vtt to /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced.vtt
+2025-01-17 02:19:05,929 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced_720.srt to /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced.srt
+2025-01-17 02:19:05,929 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced_720.json to /var/www/html/conspyre.tv/videos/v_250102155058_v8ced/v_250102155058_v8ced.json
+2025-01-17 02:19:05,935 - INFO - Processing v_250102155132_v7800 (97/10931)
+2025-01-17 02:21:04,243 - INFO - Successfully processed v_250102155132_v7800
+2025-01-17 02:21:04,244 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800_720.txt to /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800.txt
+2025-01-17 02:21:04,244 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800_720.vtt to /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800.vtt
+2025-01-17 02:21:04,244 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800_720.srt to /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800.srt
+2025-01-17 02:21:04,244 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800_720.json to /var/www/html/conspyre.tv/videos/v_250102155132_v7800/v_250102155132_v7800.json
+2025-01-17 02:21:04,250 - INFO - Processing v_250108024547_ve766 (98/10931)
+2025-01-17 02:40:19,356 - INFO - Successfully processed v_250108024547_ve766
+2025-01-17 02:40:19,357 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766_720.txt to /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766.txt
+2025-01-17 02:40:19,357 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766_720.vtt to /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766.vtt
+2025-01-17 02:40:19,357 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766_720.srt to /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766.srt
+2025-01-17 02:40:19,357 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766_720.json to /var/www/html/conspyre.tv/videos/v_250108024547_ve766/v_250108024547_ve766.json
+2025-01-17 02:40:19,363 - INFO - Processing v_241231203146_v2c38 (99/10931)
+2025-01-17 02:42:44,371 - INFO - Successfully processed v_241231203146_v2c38
+2025-01-17 02:42:44,372 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38_720.txt to /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38.txt
+2025-01-17 02:42:44,372 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38_720.vtt to /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38.vtt
+2025-01-17 02:42:44,372 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38_720.srt to /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38.srt
+2025-01-17 02:42:44,372 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38_720.json to /var/www/html/conspyre.tv/videos/v_241231203146_v2c38/v_241231203146_v2c38.json
+2025-01-17 02:42:44,378 - INFO - Processing v_241231203738_vde28 (100/10931)
+2025-01-17 02:43:15,149 - INFO - Successfully processed v_241231203738_vde28
+2025-01-17 02:43:15,149 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28_720.txt to /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28.txt
+2025-01-17 02:43:15,149 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28_720.vtt to /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28.vtt
+2025-01-17 02:43:15,150 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28_720.srt to /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28.srt
+2025-01-17 02:43:15,150 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28_720.json to /var/www/html/conspyre.tv/videos/v_241231203738_vde28/v_241231203738_vde28.json
+2025-01-17 02:43:15,155 - INFO - Processing v_241231205846_va35a (101/10931)
+2025-01-17 02:56:39,137 - INFO - Successfully processed v_241231205846_va35a
+2025-01-17 02:56:39,137 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a_480.txt to /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a.txt
+2025-01-17 02:56:39,137 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a_480.vtt to /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a.vtt
+2025-01-17 02:56:39,138 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a_480.srt to /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a.srt
+2025-01-17 02:56:39,138 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a_480.json to /var/www/html/conspyre.tv/videos/v_241231205846_va35a/v_241231205846_va35a.json
+2025-01-17 02:56:39,143 - INFO - Processing v_241231213400_v3787 (102/10931)
+2025-01-17 02:59:54,385 - INFO - Successfully processed v_241231213400_v3787
+2025-01-17 02:59:54,386 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787_720.txt to /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787.txt
+2025-01-17 02:59:54,386 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787_720.vtt to /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787.vtt
+2025-01-17 02:59:54,386 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787_720.srt to /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787.srt
+2025-01-17 02:59:54,386 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787_720.json to /var/www/html/conspyre.tv/videos/v_241231213400_v3787/v_241231213400_v3787.json
+2025-01-17 02:59:54,391 - INFO - Processing v_250101135746_ve49d (103/10931)
+2025-01-17 03:00:15,557 - INFO - Successfully processed v_250101135746_ve49d
+2025-01-17 03:00:15,558 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d_720.txt to /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d.txt
+2025-01-17 03:00:15,558 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d_720.vtt to /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d.vtt
+2025-01-17 03:00:15,558 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d_720.srt to /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d.srt
+2025-01-17 03:00:15,558 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d_720.json to /var/www/html/conspyre.tv/videos/v_250101135746_ve49d/v_250101135746_ve49d.json
+2025-01-17 03:00:15,564 - INFO - Processing v_250107184326_vaf88 (104/10931)
+2025-01-17 03:09:52,000 - INFO - Successfully processed v_250107184326_vaf88
+2025-01-17 03:09:52,000 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88_720.txt to /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88.txt
+2025-01-17 03:09:52,000 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88.vtt
+2025-01-17 03:09:52,000 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88_720.srt to /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88.srt
+2025-01-17 03:09:52,001 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88_720.json to /var/www/html/conspyre.tv/videos/v_250107184326_vaf88/v_250107184326_vaf88.json
+2025-01-17 03:09:52,006 - INFO - Processing v_241230230514_v07c3 (105/10931)
+2025-01-17 03:12:27,456 - INFO - Successfully processed v_241230230514_v07c3
+2025-01-17 03:12:27,456 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3_720.txt to /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3.txt
+2025-01-17 03:12:27,456 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3_720.vtt to /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3.vtt
+2025-01-17 03:12:27,456 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3_720.srt to /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3.srt
+2025-01-17 03:12:27,457 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3_720.json to /var/www/html/conspyre.tv/videos/v_241230230514_v07c3/v_241230230514_v07c3.json
+2025-01-17 03:12:27,462 - INFO - Processing v_241230232441_v42bf (106/10931)
+2025-01-17 03:14:26,493 - INFO - Successfully processed v_241230232441_v42bf
+2025-01-17 03:14:26,494 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf_240.txt to /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf.txt
+2025-01-17 03:14:26,494 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf_240.vtt to /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf.vtt
+2025-01-17 03:14:26,494 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf_240.srt to /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf.srt
+2025-01-17 03:14:26,494 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf_240.json to /var/www/html/conspyre.tv/videos/v_241230232441_v42bf/v_241230232441_v42bf.json
+2025-01-17 03:14:26,500 - INFO - Processing v_241231011839_vd7de (107/10931)
+2025-01-17 03:15:35,155 - INFO - Successfully processed v_241231011839_vd7de
+2025-01-17 03:15:35,156 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de_720.txt to /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de.txt
+2025-01-17 03:15:35,156 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de_720.vtt to /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de.vtt
+2025-01-17 03:15:35,156 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de_720.srt to /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de.srt
+2025-01-17 03:15:35,156 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de_720.json to /var/www/html/conspyre.tv/videos/v_241231011839_vd7de/v_241231011839_vd7de.json
+2025-01-17 03:15:35,162 - INFO - Processing v_241231174637_v15f4 (108/10931)
+2025-01-17 03:19:05,910 - INFO - Successfully processed v_241231174637_v15f4
+2025-01-17 03:19:05,910 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4_720.txt to /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4.txt
+2025-01-17 03:19:05,910 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4_720.vtt to /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4.vtt
+2025-01-17 03:19:05,910 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4_720.srt to /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4.srt
+2025-01-17 03:19:05,911 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4_720.json to /var/www/html/conspyre.tv/videos/v_241231174637_v15f4/v_241231174637_v15f4.json
+2025-01-17 03:19:05,916 - INFO - Processing v_241231175207_v6199 (109/10931)
+2025-01-17 03:19:51,871 - INFO - Successfully processed v_241231175207_v6199
+2025-01-17 03:19:51,871 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199_240.txt to /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199.txt
+2025-01-17 03:19:51,871 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199_240.vtt to /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199.vtt
+2025-01-17 03:19:51,871 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199_240.srt to /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199.srt
+2025-01-17 03:19:51,872 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199_240.json to /var/www/html/conspyre.tv/videos/v_241231175207_v6199/v_241231175207_v6199.json
+2025-01-17 03:19:51,877 - INFO - Processing v_241231175220_vbe55 (110/10931)
+2025-01-17 03:20:56,653 - INFO - Successfully processed v_241231175220_vbe55
+2025-01-17 03:20:56,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55_720.txt to /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55.txt
+2025-01-17 03:20:56,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55_720.vtt to /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55.vtt
+2025-01-17 03:20:56,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55_720.srt to /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55.srt
+2025-01-17 03:20:56,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55_720.json to /var/www/html/conspyre.tv/videos/v_241231175220_vbe55/v_241231175220_vbe55.json
+2025-01-17 03:20:56,660 - INFO - Processing v_241231185128_v1299 (111/10931)
+2025-01-17 03:35:02,885 - INFO - Successfully processed v_241231185128_v1299
+2025-01-17 03:35:02,885 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299_480.txt to /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299.txt
+2025-01-17 03:35:02,885 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299_480.vtt to /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299.vtt
+2025-01-17 03:35:02,885 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299_480.srt to /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299.srt
+2025-01-17 03:35:02,885 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299_480.json to /var/www/html/conspyre.tv/videos/v_241231185128_v1299/v_241231185128_v1299.json
+2025-01-17 03:35:02,891 - INFO - Processing v_241231185722_vcb20 (112/10931)
+2025-01-17 03:36:25,722 - INFO - Successfully processed v_241231185722_vcb20
+2025-01-17 03:36:25,722 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20_480.txt to /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20.txt
+2025-01-17 03:36:25,722 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20_480.vtt to /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20.vtt
+2025-01-17 03:36:25,722 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20_480.srt to /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20.srt
+2025-01-17 03:36:25,722 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20_480.json to /var/www/html/conspyre.tv/videos/v_241231185722_vcb20/v_241231185722_vcb20.json
+2025-01-17 03:36:25,728 - INFO - Processing v_241231203726_v2795 (113/10931)
+2025-01-17 03:37:04,617 - INFO - Successfully processed v_241231203726_v2795
+2025-01-17 03:37:04,618 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795_720.txt to /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795.txt
+2025-01-17 03:37:04,618 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795_720.vtt to /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795.vtt
+2025-01-17 03:37:04,618 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795_720.srt to /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795.srt
+2025-01-17 03:37:04,618 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795_720.json to /var/www/html/conspyre.tv/videos/v_241231203726_v2795/v_241231203726_v2795.json
+2025-01-17 03:37:04,624 - INFO - Processing v_241231214338_vdbdb (114/10931)
+2025-01-17 03:37:52,466 - INFO - Successfully processed v_241231214338_vdbdb
+2025-01-17 03:37:52,467 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb_720.txt to /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb.txt
+2025-01-17 03:37:52,467 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb_720.vtt to /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb.vtt
+2025-01-17 03:37:52,467 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb_720.srt to /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb.srt
+2025-01-17 03:37:52,467 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb_720.json to /var/www/html/conspyre.tv/videos/v_241231214338_vdbdb/v_241231214338_vdbdb.json
+2025-01-17 03:37:52,473 - INFO - Processing v_250101024952_vbd44 (115/10931)
+2025-01-17 03:39:33,243 - INFO - Successfully processed v_250101024952_vbd44
+2025-01-17 03:39:33,243 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44_720.txt to /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44.txt
+2025-01-17 03:39:33,243 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44_720.vtt to /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44.vtt
+2025-01-17 03:39:33,243 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44_720.srt to /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44.srt
+2025-01-17 03:39:33,243 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44_720.json to /var/www/html/conspyre.tv/videos/v_250101024952_vbd44/v_250101024952_vbd44.json
+2025-01-17 03:39:33,249 - INFO - Processing v_250101025452_vaf8d (116/10931)
+2025-01-17 03:39:58,480 - INFO - Successfully processed v_250101025452_vaf8d
+2025-01-17 03:39:58,481 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d_720.txt to /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d.txt
+2025-01-17 03:39:58,481 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d_720.vtt to /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d.vtt
+2025-01-17 03:39:58,481 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d_720.srt to /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d.srt
+2025-01-17 03:39:58,481 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d_720.json to /var/www/html/conspyre.tv/videos/v_250101025452_vaf8d/v_250101025452_vaf8d.json
+2025-01-17 03:39:58,487 - INFO - Processing v_250107054009_vd1d8 (117/10931)
+2025-01-17 04:02:52,479 - INFO - Successfully processed v_250107054009_vd1d8
+2025-01-17 04:02:52,480 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8_720.txt to /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8.txt
+2025-01-17 04:02:52,480 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8_720.vtt to /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8.vtt
+2025-01-17 04:02:52,480 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8_720.srt to /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8.srt
+2025-01-17 04:02:52,480 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8_720.json to /var/www/html/conspyre.tv/videos/v_250107054009_vd1d8/v_250107054009_vd1d8.json
+2025-01-17 04:02:52,486 - INFO - Processing v_250107184345_v4576 (118/10931)
+2025-01-17 04:25:54,011 - INFO - Successfully processed v_250107184345_v4576
+2025-01-17 04:25:54,012 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576_720.txt to /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576.txt
+2025-01-17 04:25:54,012 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576.vtt
+2025-01-17 04:25:54,012 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576_720.srt to /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576.srt
+2025-01-17 04:25:54,012 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576_720.json to /var/www/html/conspyre.tv/videos/v_250107184345_v4576/v_250107184345_v4576.json
+2025-01-17 04:25:54,018 - INFO - Processing v_250108030054_v617d (119/10931)
+2025-01-17 04:34:53,642 - INFO - Successfully processed v_250108030054_v617d
+2025-01-17 04:34:53,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d_480.txt to /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d.txt
+2025-01-17 04:34:53,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d_480.vtt to /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d.vtt
+2025-01-17 04:34:53,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d_480.srt to /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d.srt
+2025-01-17 04:34:53,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d_480.json to /var/www/html/conspyre.tv/videos/v_250108030054_v617d/v_250108030054_v617d.json
+2025-01-17 04:34:53,649 - INFO - Processing v_250108025437_v0f24 (120/10931)
+2025-01-17 04:40:21,902 - INFO - Successfully processed v_250108025437_v0f24
+2025-01-17 04:40:21,903 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24_720.txt to /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24.txt
+2025-01-17 04:40:21,903 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24_720.vtt to /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24.vtt
+2025-01-17 04:40:21,903 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24_720.srt to /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24.srt
+2025-01-17 04:40:21,903 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24_720.json to /var/www/html/conspyre.tv/videos/v_250108025437_v0f24/v_250108025437_v0f24.json
+2025-01-17 04:40:21,910 - INFO - Processing v_250108025459_v0f75 (121/10931)
+2025-01-17 04:46:12,783 - INFO - Successfully processed v_250108025459_v0f75
+2025-01-17 04:46:12,784 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75_720.txt to /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75.txt
+2025-01-17 04:46:12,784 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75_720.vtt to /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75.vtt
+2025-01-17 04:46:12,784 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75_720.srt to /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75.srt
+2025-01-17 04:46:12,784 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75_720.json to /var/www/html/conspyre.tv/videos/v_250108025459_v0f75/v_250108025459_v0f75.json
+2025-01-17 04:46:12,790 - INFO - Processing v_250108025514_v3899 (122/10931)
+2025-01-17 04:52:03,317 - INFO - Successfully processed v_250108025514_v3899
+2025-01-17 04:52:03,317 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899_720.txt to /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899.txt
+2025-01-17 04:52:03,317 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899_720.vtt to /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899.vtt
+2025-01-17 04:52:03,317 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899_720.srt to /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899.srt
+2025-01-17 04:52:03,317 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899_720.json to /var/www/html/conspyre.tv/videos/v_250108025514_v3899/v_250108025514_v3899.json
+2025-01-17 04:52:03,323 - INFO - Processing v_241229210205_v3f29 (123/10931)
+2025-01-17 04:53:58,481 - INFO - Successfully processed v_241229210205_v3f29
+2025-01-17 04:53:58,482 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29_720.txt to /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29.txt
+2025-01-17 04:53:58,482 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29_720.vtt to /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29.vtt
+2025-01-17 04:53:58,482 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29_720.srt to /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29.srt
+2025-01-17 04:53:58,482 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29_720.json to /var/www/html/conspyre.tv/videos/v_241229210205_v3f29/v_241229210205_v3f29.json
+2025-01-17 04:53:58,488 - INFO - Processing v_241230111041_vee0d (124/10931)
+2025-01-17 04:55:11,571 - INFO - Successfully processed v_241230111041_vee0d
+2025-01-17 04:55:11,571 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d_720.txt to /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d.txt
+2025-01-17 04:55:11,571 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d_720.vtt to /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d.vtt
+2025-01-17 04:55:11,571 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d_720.srt to /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d.srt
+2025-01-17 04:55:11,571 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d_720.json to /var/www/html/conspyre.tv/videos/v_241230111041_vee0d/v_241230111041_vee0d.json
+2025-01-17 04:55:11,579 - INFO - Processing v_241230112611_v6445 (125/10931)
+2025-01-17 05:02:23,443 - INFO - Successfully processed v_241230112611_v6445
+2025-01-17 05:02:23,444 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445_720.txt to /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445.txt
+2025-01-17 05:02:23,444 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445_720.vtt to /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445.vtt
+2025-01-17 05:02:23,444 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445_720.srt to /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445.srt
+2025-01-17 05:02:23,445 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445_720.json to /var/www/html/conspyre.tv/videos/v_241230112611_v6445/v_241230112611_v6445.json
+2025-01-17 05:02:23,450 - INFO - Processing v_241230114255_v7ccf (126/10931)
+2025-01-17 05:03:20,954 - INFO - Successfully processed v_241230114255_v7ccf
+2025-01-17 05:03:20,955 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf_720.txt to /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf.txt
+2025-01-17 05:03:20,955 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf_720.vtt to /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf.vtt
+2025-01-17 05:03:20,955 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf_720.srt to /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf.srt
+2025-01-17 05:03:20,955 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf_720.json to /var/www/html/conspyre.tv/videos/v_241230114255_v7ccf/v_241230114255_v7ccf.json
+2025-01-17 05:03:20,961 - INFO - Processing v_241230115148_v38cf (127/10931)
+2025-01-17 05:05:07,635 - INFO - Successfully processed v_241230115148_v38cf
+2025-01-17 05:05:07,636 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf_720.txt to /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf.txt
+2025-01-17 05:05:07,636 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf_720.vtt to /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf.vtt
+2025-01-17 05:05:07,636 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf_720.srt to /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf.srt
+2025-01-17 05:05:07,636 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf_720.json to /var/www/html/conspyre.tv/videos/v_241230115148_v38cf/v_241230115148_v38cf.json
+2025-01-17 05:05:07,642 - INFO - Processing v_241230133149_v97c7 (128/10931)
+2025-01-17 05:06:03,088 - INFO - Successfully processed v_241230133149_v97c7
+2025-01-17 05:06:03,088 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7_720.txt to /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7.txt
+2025-01-17 05:06:03,088 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7_720.vtt to /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7.vtt
+2025-01-17 05:06:03,089 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7_720.srt to /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7.srt
+2025-01-17 05:06:03,089 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7_720.json to /var/www/html/conspyre.tv/videos/v_241230133149_v97c7/v_241230133149_v97c7.json
+2025-01-17 05:06:03,094 - INFO - Processing v_241230135553_v350a (129/10931)
+2025-01-17 05:06:46,090 - INFO - Successfully processed v_241230135553_v350a
+2025-01-17 05:06:46,090 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a_360.txt to /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a.txt
+2025-01-17 05:06:46,090 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a_360.vtt to /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a.vtt
+2025-01-17 05:06:46,091 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a_360.srt to /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a.srt
+2025-01-17 05:06:46,091 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a_360.json to /var/www/html/conspyre.tv/videos/v_241230135553_v350a/v_241230135553_v350a.json
+2025-01-17 05:06:46,096 - INFO - Processing v_241230153151_vfe11 (130/10931)
+2025-01-17 05:09:06,679 - INFO - Successfully processed v_241230153151_vfe11
+2025-01-17 05:09:06,679 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11_720.txt to /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11.txt
+2025-01-17 05:09:06,679 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11_720.vtt to /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11.vtt
+2025-01-17 05:09:06,680 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11_720.srt to /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11.srt
+2025-01-17 05:09:06,680 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11_720.json to /var/www/html/conspyre.tv/videos/v_241230153151_vfe11/v_241230153151_vfe11.json
+2025-01-17 05:09:06,685 - INFO - Processing v_241230154220_va720 (131/10931)
+2025-01-17 05:20:05,724 - INFO - Successfully processed v_241230154220_va720
+2025-01-17 05:20:05,724 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720_480.txt to /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720.txt
+2025-01-17 05:20:05,724 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720_480.vtt to /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720.vtt
+2025-01-17 05:20:05,724 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720_480.srt to /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720.srt
+2025-01-17 05:20:05,724 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720_480.json to /var/www/html/conspyre.tv/videos/v_241230154220_va720/v_241230154220_va720.json
+2025-01-17 05:20:05,730 - INFO - Processing v_241231142742_v6a44 (132/10931)
+2025-01-17 05:22:20,108 - INFO - Successfully processed v_241231142742_v6a44
+2025-01-17 05:22:20,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44_720.txt to /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44.txt
+2025-01-17 05:22:20,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44_720.vtt to /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44.vtt
+2025-01-17 05:22:20,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44_720.srt to /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44.srt
+2025-01-17 05:22:20,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44_720.json to /var/www/html/conspyre.tv/videos/v_241231142742_v6a44/v_241231142742_v6a44.json
+2025-01-17 05:22:20,115 - INFO - Processing v_241231190026_v5f23 (133/10931)
+2025-01-17 05:23:29,281 - INFO - Successfully processed v_241231190026_v5f23
+2025-01-17 05:23:29,281 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23_540.txt to /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23.txt
+2025-01-17 05:23:29,281 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23_540.vtt to /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23.vtt
+2025-01-17 05:23:29,281 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23_540.srt to /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23.srt
+2025-01-17 05:23:29,281 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23_540.json to /var/www/html/conspyre.tv/videos/v_241231190026_v5f23/v_241231190026_v5f23.json
+2025-01-17 05:23:29,288 - INFO - Processing v_241228225120_v79ca (134/10931)
+2025-01-17 06:01:19,496 - INFO - Successfully processed v_241228225120_v79ca
+2025-01-17 06:01:19,496 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca_480.txt to /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca.txt
+2025-01-17 06:01:19,497 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca_480.vtt to /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca.vtt
+2025-01-17 06:01:19,497 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca_480.srt to /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca.srt
+2025-01-17 06:01:19,497 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca_480.json to /var/www/html/conspyre.tv/videos/v_241228225120_v79ca/v_241228225120_v79ca.json
+2025-01-17 06:01:19,503 - INFO - Processing v_241229155720_va6b9 (135/10931)
+2025-01-17 06:10:32,096 - INFO - Successfully processed v_241229155720_va6b9
+2025-01-17 06:10:32,097 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9_480.txt to /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9.txt
+2025-01-17 06:10:32,097 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9_480.vtt to /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9.vtt
+2025-01-17 06:10:32,097 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9_480.srt to /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9.srt
+2025-01-17 06:10:32,097 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9_480.json to /var/www/html/conspyre.tv/videos/v_241229155720_va6b9/v_241229155720_va6b9.json
+2025-01-17 06:10:32,103 - INFO - Processing v_241229160707_v09d6 (136/10931)
+2025-01-17 06:15:34,470 - INFO - Successfully processed v_241229160707_v09d6
+2025-01-17 06:15:34,471 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6_720.txt to /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6.txt
+2025-01-17 06:15:34,471 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6_720.vtt to /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6.vtt
+2025-01-17 06:15:34,471 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6_720.srt to /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6.srt
+2025-01-17 06:15:34,471 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6_720.json to /var/www/html/conspyre.tv/videos/v_241229160707_v09d6/v_241229160707_v09d6.json
+2025-01-17 06:15:34,477 - INFO - Processing v_241229184140_vb326 (137/10931)
+2025-01-17 06:52:56,092 - INFO - Successfully processed v_241229184140_vb326
+2025-01-17 06:52:56,092 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326_720.txt to /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326.txt
+2025-01-17 06:52:56,092 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326_720.vtt to /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326.vtt
+2025-01-17 06:52:56,093 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326_720.srt to /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326.srt
+2025-01-17 06:52:56,093 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326_720.json to /var/www/html/conspyre.tv/videos/v_241229184140_vb326/v_241229184140_vb326.json
+2025-01-17 06:52:56,104 - INFO - Processing v_241230113710_v0f8c (138/10931)
+2025-01-17 06:53:45,797 - INFO - Successfully processed v_241230113710_v0f8c
+2025-01-17 06:53:45,797 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c_720.txt to /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c.txt
+2025-01-17 06:53:45,798 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c_720.vtt to /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c.vtt
+2025-01-17 06:53:45,798 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c_720.srt to /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c.srt
+2025-01-17 06:53:45,798 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c_720.json to /var/www/html/conspyre.tv/videos/v_241230113710_v0f8c/v_241230113710_v0f8c.json
+2025-01-17 06:53:45,804 - INFO - Processing v_241230115814_v0464 (139/10931)
+2025-01-17 06:54:50,642 - INFO - Successfully processed v_241230115814_v0464
+2025-01-17 06:54:50,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464_720.txt to /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464.txt
+2025-01-17 06:54:50,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464_720.vtt to /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464.vtt
+2025-01-17 06:54:50,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464_720.srt to /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464.srt
+2025-01-17 06:54:50,643 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464_720.json to /var/www/html/conspyre.tv/videos/v_241230115814_v0464/v_241230115814_v0464.json
+2025-01-17 06:54:50,650 - INFO - Processing v_250107053349_vfb78 (140/10931)
+2025-01-17 08:11:47,258 - INFO - Successfully processed v_250107053349_vfb78
+2025-01-17 08:11:47,258 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78_720.txt to /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78.txt
+2025-01-17 08:11:47,258 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78_720.vtt to /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78.vtt
+2025-01-17 08:11:47,258 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78_720.srt to /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78.srt
+2025-01-17 08:11:47,258 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78_720.json to /var/www/html/conspyre.tv/videos/v_250107053349_vfb78/v_250107053349_vfb78.json
+2025-01-17 08:11:47,265 - INFO - Processing video_241228013043_v2c0d (141/10931)
+2025-01-17 08:40:51,871 - INFO - Successfully processed video_241228013043_v2c0d
+2025-01-17 08:40:51,871 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d_720.txt to /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d.txt
+2025-01-17 08:40:51,871 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d_720.vtt to /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d.vtt
+2025-01-17 08:40:51,872 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d_720.srt to /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d.srt
+2025-01-17 08:40:51,872 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d_720.json to /var/www/html/conspyre.tv/videos/video_241228013043_v2c0d/video_241228013043_v2c0d.json
+2025-01-17 08:40:51,878 - INFO - Processing video_241227221207_v9028 (142/10931)
+2025-01-17 09:06:12,225 - INFO - Successfully processed video_241227221207_v9028
+2025-01-17 09:06:12,226 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028_720.txt to /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028.txt
+2025-01-17 09:06:12,226 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028_720.vtt to /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028.vtt
+2025-01-17 09:06:12,227 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028_720.srt to /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028.srt
+2025-01-17 09:06:12,227 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028_720.json to /var/www/html/conspyre.tv/videos/video_241227221207_v9028/video_241227221207_v9028.json
+2025-01-17 09:06:12,233 - INFO - Processing video_241227212442_v61bf (143/10931)
+2025-01-17 09:18:27,652 - INFO - Successfully processed video_241227212442_v61bf
+2025-01-17 09:18:27,652 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf_720.txt to /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf.txt
+2025-01-17 09:18:27,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf_720.vtt to /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf.vtt
+2025-01-17 09:18:27,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf_720.srt to /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf.srt
+2025-01-17 09:18:27,653 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf_720.json to /var/www/html/conspyre.tv/videos/video_241227212442_v61bf/video_241227212442_v61bf.json
+2025-01-17 09:18:27,659 - INFO - Processing video_241227210923_vd46d (144/10931)
+2025-01-17 10:09:54,518 - INFO - Successfully processed video_241227210923_vd46d
+2025-01-17 10:09:54,519 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d_360.txt to /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d.txt
+2025-01-17 10:09:54,519 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d_360.vtt to /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d.vtt
+2025-01-17 10:09:54,519 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d_360.srt to /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d.srt
+2025-01-17 10:09:54,519 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d_360.json to /var/www/html/conspyre.tv/videos/video_241227210923_vd46d/video_241227210923_vd46d.json
+2025-01-17 10:09:54,531 - INFO - Processing video_241227210113_v65b7 (145/10931)
+2025-01-17 10:51:36,523 - INFO - Successfully processed video_241227210113_v65b7
+2025-01-17 10:51:36,524 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7_480.txt to /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7.txt
+2025-01-17 10:51:36,524 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7_480.vtt to /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7.vtt
+2025-01-17 10:51:36,524 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7_480.srt to /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7.srt
+2025-01-17 10:51:36,525 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7_480.json to /var/www/html/conspyre.tv/videos/video_241227210113_v65b7/video_241227210113_v65b7.json
+2025-01-17 10:51:36,530 - INFO - Processing video_241227205655_v5517 (146/10931)
+2025-01-17 10:53:19,971 - INFO - Successfully processed video_241227205655_v5517
+2025-01-17 10:53:19,971 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517_720.txt to /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517.txt
+2025-01-17 10:53:19,971 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517_720.vtt to /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517.vtt
+2025-01-17 10:53:19,972 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517_720.srt to /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517.srt
+2025-01-17 10:53:19,972 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517_720.json to /var/www/html/conspyre.tv/videos/video_241227205655_v5517/video_241227205655_v5517.json
+2025-01-17 10:53:19,978 - INFO - Processing video_241227204316_v19d4 (147/10931)
+2025-01-17 11:10:45,060 - INFO - Successfully processed video_241227204316_v19d4
+2025-01-17 11:10:45,061 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4_720.txt to /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4.txt
+2025-01-17 11:10:45,061 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4_720.vtt to /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4.vtt
+2025-01-17 11:10:45,061 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4_720.srt to /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4.srt
+2025-01-17 11:10:45,061 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4_720.json to /var/www/html/conspyre.tv/videos/video_241227204316_v19d4/video_241227204316_v19d4.json
+2025-01-17 11:10:45,067 - INFO - Processing video_241227201753_vacf1 (148/10931)
+2025-01-17 11:54:51,438 - INFO - Successfully processed video_241227201753_vacf1
+2025-01-17 11:54:51,438 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1_720.txt to /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1.txt
+2025-01-17 11:54:51,438 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1_720.vtt to /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1.vtt
+2025-01-17 11:54:51,438 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1_720.srt to /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1.srt
+2025-01-17 11:54:51,438 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1_720.json to /var/www/html/conspyre.tv/videos/video_241227201753_vacf1/video_241227201753_vacf1.json
+2025-01-17 11:54:51,446 - INFO - Processing video_241227201156_v3fdf (149/10931)
+2025-01-17 12:40:29,596 - INFO - Successfully processed video_241227201156_v3fdf
+2025-01-17 12:40:29,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf_720.txt to /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf.txt
+2025-01-17 12:40:29,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf_720.vtt to /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf.vtt
+2025-01-17 12:40:29,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf_720.srt to /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf.srt
+2025-01-17 12:40:29,596 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf_720.json to /var/www/html/conspyre.tv/videos/video_241227201156_v3fdf/video_241227201156_v3fdf.json
+2025-01-17 12:40:29,603 - INFO - Processing video_241227200442_v3b34 (150/10931)
+2025-01-17 13:47:05,614 - INFO - Successfully processed video_241227200442_v3b34
+2025-01-17 13:47:05,614 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34_720.txt to /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34.txt
+2025-01-17 13:47:05,614 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34_720.vtt to /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34.vtt
+2025-01-17 13:47:05,614 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34_720.srt to /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34.srt
+2025-01-17 13:47:05,614 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34_720.json to /var/www/html/conspyre.tv/videos/video_241227200442_v3b34/video_241227200442_v3b34.json
+2025-01-17 13:47:05,621 - INFO - Processing video_241227195233_v9e4b (151/10931)
+2025-01-17 14:36:11,034 - INFO - Successfully processed video_241227195233_v9e4b
+2025-01-17 14:36:11,035 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b_720.txt to /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b.txt
+2025-01-17 14:36:11,035 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b_720.vtt to /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b.vtt
+2025-01-17 14:36:11,035 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b_720.srt to /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b.srt
+2025-01-17 14:36:11,035 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b_720.json to /var/www/html/conspyre.tv/videos/video_241227195233_v9e4b/video_241227195233_v9e4b.json
+2025-01-17 14:36:11,041 - INFO - Processing v_241228195234_v2131 (152/10931)
+2025-01-17 14:42:31,817 - INFO - Successfully processed v_241228195234_v2131
+2025-01-17 14:42:31,818 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131_720.txt to /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131.txt
+2025-01-17 14:42:31,818 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131_720.vtt to /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131.vtt
+2025-01-17 14:42:31,819 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131_720.srt to /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131.srt
+2025-01-17 14:42:31,819 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131_720.json to /var/www/html/conspyre.tv/videos/v_241228195234_v2131/v_241228195234_v2131.json
+2025-01-17 14:42:31,832 - INFO - Processing v_241229011314_v0065 (153/10931)
+2025-01-17 14:45:49,219 - INFO - Successfully processed v_241229011314_v0065
+2025-01-17 14:45:49,219 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065_720.txt to /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065.txt
+2025-01-17 14:45:49,219 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065_720.vtt to /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065.vtt
+2025-01-17 14:45:49,220 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065_720.srt to /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065.srt
+2025-01-17 14:45:49,220 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065_720.json to /var/www/html/conspyre.tv/videos/v_241229011314_v0065/v_241229011314_v0065.json
+2025-01-17 14:45:49,228 - INFO - Processing v_250107054019_ve290 (154/10931)
+2025-01-17 14:51:21,493 - INFO - Successfully processed v_250107054019_ve290
+2025-01-17 14:51:21,493 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290_720.txt to /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290.txt
+2025-01-17 14:51:21,493 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290_720.vtt to /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290.vtt
+2025-01-17 14:51:21,493 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290_720.srt to /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290.srt
+2025-01-17 14:51:21,493 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290_720.json to /var/www/html/conspyre.tv/videos/v_250107054019_ve290/v_250107054019_ve290.json
+2025-01-17 14:51:21,500 - INFO - Processing v_250107184350_v7c54 (155/10931)
+2025-01-17 14:57:08,472 - INFO - Successfully processed v_250107184350_v7c54
+2025-01-17 14:57:08,472 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54_720.txt to /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54.txt
+2025-01-17 14:57:08,472 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54.vtt
+2025-01-17 14:57:08,472 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54_720.srt to /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54.srt
+2025-01-17 14:57:08,473 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54_720.json to /var/www/html/conspyre.tv/videos/v_250107184350_v7c54/v_250107184350_v7c54.json
+2025-01-17 14:57:08,480 - INFO - Processing video_241227173441_vbc09 (156/10931)
+2025-01-17 16:46:42,713 - INFO - Successfully processed video_241227173441_vbc09
+2025-01-17 16:46:42,714 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09_480.txt to /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09.txt
+2025-01-17 16:46:42,714 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09_480.vtt to /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09.vtt
+2025-01-17 16:46:42,714 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09_480.srt to /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09.srt
+2025-01-17 16:46:42,714 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09_480.json to /var/www/html/conspyre.tv/videos/video_241227173441_vbc09/video_241227173441_vbc09.json
+2025-01-17 16:46:42,721 - INFO - Processing video_241227172504_va224 (157/10931)
+2025-01-17 17:02:52,426 - INFO - Successfully processed video_241227172504_va224
+2025-01-17 17:02:52,427 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224_720.txt to /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224.txt
+2025-01-17 17:02:52,427 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224_720.vtt to /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224.vtt
+2025-01-17 17:02:52,427 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224_720.srt to /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224.srt
+2025-01-17 17:02:52,427 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224_720.json to /var/www/html/conspyre.tv/videos/video_241227172504_va224/video_241227172504_va224.json
+2025-01-17 17:02:52,433 - INFO - Processing video_241227172004_v033a (158/10931)
+2025-01-17 17:18:26,168 - INFO - Successfully processed video_241227172004_v033a
+2025-01-17 17:18:26,168 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a_720.txt to /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a.txt
+2025-01-17 17:18:26,168 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a_720.vtt to /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a.vtt
+2025-01-17 17:18:26,168 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a_720.srt to /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a.srt
+2025-01-17 17:18:26,168 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a_720.json to /var/www/html/conspyre.tv/videos/video_241227172004_v033a/video_241227172004_v033a.json
+2025-01-17 17:18:26,175 - INFO - Processing video_241227164642_v2284 (159/10931)
+2025-01-17 17:34:38,531 - INFO - Successfully processed video_241227164642_v2284
+2025-01-17 17:34:38,532 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284_720.txt to /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284.txt
+2025-01-17 17:34:38,532 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284_720.vtt to /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284.vtt
+2025-01-17 17:34:38,532 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284_720.srt to /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284.srt
+2025-01-17 17:34:38,532 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284_720.json to /var/www/html/conspyre.tv/videos/video_241227164642_v2284/video_241227164642_v2284.json
+2025-01-17 17:34:38,538 - INFO - Processing video_241227160719_vdca2 (160/10931)
+2025-01-17 18:20:16,457 - INFO - Successfully processed video_241227160719_vdca2
+2025-01-17 18:20:16,457 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2_720.txt to /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2.txt
+2025-01-17 18:20:16,457 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2_720.vtt to /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2.vtt
+2025-01-17 18:20:16,457 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2_720.srt to /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2.srt
+2025-01-17 18:20:16,457 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2_720.json to /var/www/html/conspyre.tv/videos/video_241227160719_vdca2/video_241227160719_vdca2.json
+2025-01-17 18:20:16,465 - INFO - Processing video_241227035947_vd9e0 (161/10931)
+2025-01-17 18:21:53,536 - INFO - Successfully processed video_241227035947_vd9e0
+2025-01-17 18:21:53,537 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0_720.txt to /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0.txt
+2025-01-17 18:21:53,537 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0_720.vtt to /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0.vtt
+2025-01-17 18:21:53,537 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0_720.srt to /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0.srt
+2025-01-17 18:21:53,537 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0_720.json to /var/www/html/conspyre.tv/videos/video_241227035947_vd9e0/video_241227035947_vd9e0.json
+2025-01-17 18:21:53,544 - INFO - Processing video_241227034120_v33dc (162/10931)
+2025-01-17 18:36:02,730 - INFO - Successfully processed video_241227034120_v33dc
+2025-01-17 18:36:02,731 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc_720.txt to /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc.txt
+2025-01-17 18:36:02,731 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc_720.vtt to /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc.vtt
+2025-01-17 18:36:02,731 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc_720.srt to /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc.srt
+2025-01-17 18:36:02,731 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc_720.json to /var/www/html/conspyre.tv/videos/video_241227034120_v33dc/video_241227034120_v33dc.json
+2025-01-17 18:36:02,737 - INFO - Processing video_241227010916_v4c9b (163/10931)
+2025-01-17 19:28:54,788 - INFO - Successfully processed video_241227010916_v4c9b
+2025-01-17 19:28:54,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b_720.txt to /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b.txt
+2025-01-17 19:28:54,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b_720.vtt to /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b.vtt
+2025-01-17 19:28:54,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b_720.srt to /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b.srt
+2025-01-17 19:28:54,789 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b_720.json to /var/www/html/conspyre.tv/videos/video_241227010916_v4c9b/video_241227010916_v4c9b.json
+2025-01-17 19:28:54,801 - INFO - Processing video_241227010741_va087 (164/10931)
+2025-01-17 19:35:44,530 - INFO - Successfully processed video_241227010741_va087
+2025-01-17 19:35:44,530 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087_720.txt to /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087.txt
+2025-01-17 19:35:44,530 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087_720.vtt to /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087.vtt
+2025-01-17 19:35:44,530 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087_720.srt to /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087.srt
+2025-01-17 19:35:44,530 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087_720.json to /var/www/html/conspyre.tv/videos/video_241227010741_va087/video_241227010741_va087.json
+2025-01-17 19:35:44,537 - INFO - Processing video_241227010653_v8530 (165/10931)
+2025-01-17 19:36:00,313 - INFO - Successfully processed video_241227010653_v8530
+2025-01-17 19:36:00,318 - INFO - Processing video_241227010605_veec4 (166/10931)
+2025-01-17 19:36:17,335 - INFO - Successfully processed video_241227010605_veec4
+2025-01-17 19:36:17,340 - INFO - Processing v_241227011920_veadd (167/10931)
+2025-01-17 19:40:41,340 - INFO - Successfully processed v_241227011920_veadd
+2025-01-17 19:40:41,340 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd_360.txt to /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd.txt
+2025-01-17 19:40:41,341 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd_360.vtt to /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd.vtt
+2025-01-17 19:40:41,341 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd_360.srt to /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd.srt
+2025-01-17 19:40:41,341 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd_360.json to /var/www/html/conspyre.tv/videos/v_241227011920_veadd/v_241227011920_veadd.json
+2025-01-17 19:40:41,355 - INFO - Processing v_241227044125_vb790 (168/10931)
+2025-01-17 19:43:50,678 - INFO - Successfully processed v_241227044125_vb790
+2025-01-17 19:43:50,679 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790_480.txt to /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790.txt
+2025-01-17 19:43:50,679 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790_480.vtt to /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790.vtt
+2025-01-17 19:43:50,679 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790_480.srt to /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790.srt
+2025-01-17 19:43:50,679 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790_480.json to /var/www/html/conspyre.tv/videos/v_241227044125_vb790/v_241227044125_vb790.json
+2025-01-17 19:43:50,685 - INFO - Processing v_241227044458_v8de3 (169/10931)
+2025-01-17 19:46:18,613 - INFO - Successfully processed v_241227044458_v8de3
+2025-01-17 19:46:18,613 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3_480.txt to /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3.txt
+2025-01-17 19:46:18,613 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3_480.vtt to /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3.vtt
+2025-01-17 19:46:18,613 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3_480.srt to /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3.srt
+2025-01-17 19:46:18,613 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3_480.json to /var/www/html/conspyre.tv/videos/v_241227044458_v8de3/v_241227044458_v8de3.json
+2025-01-17 19:46:18,620 - INFO - Processing v_241227045628_v046a (170/10931)
+2025-01-17 20:22:55,833 - INFO - Successfully processed v_241227045628_v046a
+2025-01-17 20:22:55,834 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a_480.txt to /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a.txt
+2025-01-17 20:22:55,834 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a_480.vtt to /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a.vtt
+2025-01-17 20:22:55,834 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a_480.srt to /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a.srt
+2025-01-17 20:22:55,834 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a_480.json to /var/www/html/conspyre.tv/videos/v_241227045628_v046a/v_241227045628_v046a.json
+2025-01-17 20:22:55,842 - INFO - Processing v_241227045947_v768d (171/10931)
+2025-01-17 20:24:57,606 - INFO - Successfully processed v_241227045947_v768d
+2025-01-17 20:24:57,606 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d_720.txt to /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d.txt
+2025-01-17 20:24:57,607 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d_720.vtt to /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d.vtt
+2025-01-17 20:24:57,607 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d_720.srt to /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d.srt
+2025-01-17 20:24:57,607 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d_720.json to /var/www/html/conspyre.tv/videos/v_241227045947_v768d/v_241227045947_v768d.json
+2025-01-17 20:24:57,613 - INFO - Processing v_241227050301_ved61 (172/10931)
+2025-01-17 20:36:02,577 - INFO - Successfully processed v_241227050301_ved61
+2025-01-17 20:36:02,577 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61_360.txt to /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61.txt
+2025-01-17 20:36:02,577 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61_360.vtt to /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61.vtt
+2025-01-17 20:36:02,577 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61_360.srt to /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61.srt
+2025-01-17 20:36:02,577 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61_360.json to /var/www/html/conspyre.tv/videos/v_241227050301_ved61/v_241227050301_ved61.json
+2025-01-17 20:36:02,583 - INFO - Processing v_241227174026_vb34f (173/10931)
+2025-01-17 20:51:06,245 - INFO - Successfully processed v_241227174026_vb34f
+2025-01-17 20:51:06,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f_480.txt to /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f.txt
+2025-01-17 20:51:06,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f_480.vtt to /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f.vtt
+2025-01-17 20:51:06,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f_480.srt to /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f.srt
+2025-01-17 20:51:06,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f_480.json to /var/www/html/conspyre.tv/videos/v_241227174026_vb34f/v_241227174026_vb34f.json
+2025-01-17 20:51:06,251 - INFO - Processing v_250107054030_v2b66 (174/10931)
+2025-01-17 20:55:14,094 - INFO - Successfully processed v_250107054030_v2b66
+2025-01-17 20:55:14,094 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66_720.txt to /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66.txt
+2025-01-17 20:55:14,094 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66_720.vtt to /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66.vtt
+2025-01-17 20:55:14,095 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66_720.srt to /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66.srt
+2025-01-17 20:55:14,095 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66_720.json to /var/www/html/conspyre.tv/videos/v_250107054030_v2b66/v_250107054030_v2b66.json
+2025-01-17 20:55:14,101 - INFO - Processing v_250107054101_v5609 (175/10931)
+2025-01-17 21:06:44,192 - INFO - Successfully processed v_250107054101_v5609
+2025-01-17 21:06:44,192 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609_720.txt to /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609.txt
+2025-01-17 21:06:44,192 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609_720.vtt to /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609.vtt
+2025-01-17 21:06:44,192 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609_720.srt to /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609.srt
+2025-01-17 21:06:44,192 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609_720.json to /var/www/html/conspyre.tv/videos/v_250107054101_v5609/v_250107054101_v5609.json
+2025-01-17 21:06:44,199 - INFO - Processing v_250107054110_vc2b8 (176/10931)
+2025-01-17 21:10:11,805 - INFO - Successfully processed v_250107054110_vc2b8
+2025-01-17 21:10:11,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8_720.txt to /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8.txt
+2025-01-17 21:10:11,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8_720.vtt to /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8.vtt
+2025-01-17 21:10:11,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8_720.srt to /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8.srt
+2025-01-17 21:10:11,806 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8_720.json to /var/www/html/conspyre.tv/videos/v_250107054110_vc2b8/v_250107054110_vc2b8.json
+2025-01-17 21:10:11,813 - INFO - Processing v_250107184355_v9f91 (177/10931)
+2025-01-17 21:14:23,108 - INFO - Successfully processed v_250107184355_v9f91
+2025-01-17 21:14:23,108 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91_720.txt to /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91.txt
+2025-01-17 21:14:23,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91.vtt
+2025-01-17 21:14:23,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91_720.srt to /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91.srt
+2025-01-17 21:14:23,109 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91_720.json to /var/www/html/conspyre.tv/videos/v_250107184355_v9f91/v_250107184355_v9f91.json
+2025-01-17 21:14:23,115 - INFO - Processing v_241227171205_v1efb (178/10931)
+2025-01-17 21:56:55,440 - INFO - Successfully processed v_241227171205_v1efb
+2025-01-17 21:56:55,440 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb_360.txt to /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb.txt
+2025-01-17 21:56:55,441 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb_360.vtt to /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb.vtt
+2025-01-17 21:56:55,441 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb_360.srt to /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb.srt
+2025-01-17 21:56:55,441 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb_360.json to /var/www/html/conspyre.tv/videos/v_241227171205_v1efb/v_241227171205_v1efb.json
+2025-01-17 21:56:55,447 - INFO - Processing v_241229013758_v9d7e (179/10931)
+2025-01-17 22:16:35,862 - INFO - Successfully processed v_241229013758_v9d7e
+2025-01-17 22:16:35,862 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e_720.txt to /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e.txt
+2025-01-17 22:16:35,863 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e_720.vtt to /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e.vtt
+2025-01-17 22:16:35,863 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e_720.srt to /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e.srt
+2025-01-17 22:16:35,863 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e_720.json to /var/www/html/conspyre.tv/videos/v_241229013758_v9d7e/v_241229013758_v9d7e.json
+2025-01-17 22:16:35,869 - INFO - Processing v_241228004456_v9e79 (180/10931)
+2025-01-17 22:54:11,231 - INFO - Successfully processed v_241228004456_v9e79
+2025-01-17 22:54:11,231 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79_360.txt to /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79.txt
+2025-01-17 22:54:11,231 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79_360.vtt to /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79.vtt
+2025-01-17 22:54:11,231 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79_360.srt to /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79.srt
+2025-01-17 22:54:11,232 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79_360.json to /var/www/html/conspyre.tv/videos/v_241228004456_v9e79/v_241228004456_v9e79.json
+2025-01-17 22:54:11,238 - INFO - Processing v_250107184609_v3b3f (181/10931)
+2025-01-17 23:03:00,049 - INFO - Successfully processed v_250107184609_v3b3f
+2025-01-17 23:03:00,050 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f_720.txt to /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f.txt
+2025-01-17 23:03:00,050 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f_720.vtt to /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f.vtt
+2025-01-17 23:03:00,050 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f_720.srt to /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f.srt
+2025-01-17 23:03:00,050 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f_720.json to /var/www/html/conspyre.tv/videos/v_250107184609_v3b3f/v_250107184609_v3b3f.json
+2025-01-17 23:03:00,057 - INFO - Processing v_250108025417_v7f5f (182/10931)
+2025-01-17 23:30:05,112 - INFO - Successfully processed v_250108025417_v7f5f
+2025-01-17 23:30:05,113 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f_480.txt to /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f.txt
+2025-01-17 23:30:05,113 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f_480.vtt to /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f.vtt
+2025-01-17 23:30:05,113 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f_480.srt to /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f.srt
+2025-01-17 23:30:05,113 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f_480.json to /var/www/html/conspyre.tv/videos/v_250108025417_v7f5f/v_250108025417_v7f5f.json
+2025-01-17 23:30:05,119 - INFO - Processing v_241229222616_vb23d (183/10931)
+2025-01-17 23:35:11,245 - INFO - Successfully processed v_241229222616_vb23d
+2025-01-17 23:35:11,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d_720.txt to /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d.txt
+2025-01-17 23:35:11,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d_720.vtt to /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d.vtt
+2025-01-17 23:35:11,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d_720.srt to /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d.srt
+2025-01-17 23:35:11,245 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d_720.json to /var/www/html/conspyre.tv/videos/v_241229222616_vb23d/v_241229222616_vb23d.json
+2025-01-17 23:35:11,252 - INFO - Processing v_241229222648_ve976 (184/10931)
+2025-01-17 23:37:52,831 - INFO - Successfully processed v_241229222648_ve976
+2025-01-17 23:37:52,831 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976_720.txt to /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976.txt
+2025-01-17 23:37:52,831 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976_720.vtt to /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976.vtt
+2025-01-17 23:37:52,831 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976_720.srt to /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976.srt
+2025-01-17 23:37:52,831 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976_720.json to /var/www/html/conspyre.tv/videos/v_241229222648_ve976/v_241229222648_ve976.json
+2025-01-17 23:37:52,838 - INFO - Processing v_250107050433_vcbce (185/10931)
+2025-01-17 23:55:17,714 - INFO - Successfully processed v_250107050433_vcbce
+2025-01-17 23:55:17,714 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce_720.txt to /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce.txt
+2025-01-17 23:55:17,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce_720.vtt to /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce.vtt
+2025-01-17 23:55:17,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce_720.srt to /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce.srt
+2025-01-17 23:55:17,715 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce_720.json to /var/www/html/conspyre.tv/videos/v_250107050433_vcbce/v_250107050433_vcbce.json
+2025-01-17 23:55:17,721 - INFO - Processing v_241227035731_v0937 (186/10931)
+2025-01-18 00:19:30,330 - INFO - Successfully processed v_241227035731_v0937
+2025-01-18 00:19:30,331 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937_720.txt to /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937.txt
+2025-01-18 00:19:30,331 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937_720.vtt to /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937.vtt
+2025-01-18 00:19:30,331 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937_720.srt to /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937.srt
+2025-01-18 00:19:30,331 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937_720.json to /var/www/html/conspyre.tv/videos/v_241227035731_v0937/v_241227035731_v0937.json
+2025-01-18 00:19:30,340 - INFO - Processing v_241229222417_v0f23 (187/10931)
+2025-01-18 00:32:19,311 - INFO - Successfully processed v_241229222417_v0f23
+2025-01-18 00:32:19,311 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23_360.txt to /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23.txt
+2025-01-18 00:32:19,311 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23_360.vtt to /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23.vtt
+2025-01-18 00:32:19,311 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23_360.srt to /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23.srt
+2025-01-18 00:32:19,311 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23_360.json to /var/www/html/conspyre.tv/videos/v_241229222417_v0f23/v_241229222417_v0f23.json
+2025-01-18 00:32:19,318 - INFO - Processing v_250107044538_v9ff6 (188/10931)
+2025-01-18 02:10:17,433 - INFO - Successfully processed v_250107044538_v9ff6
+2025-01-18 02:10:17,433 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6_720.txt to /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6.txt
+2025-01-18 02:10:17,433 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6_720.vtt to /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6.vtt
+2025-01-18 02:10:17,433 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6_720.srt to /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6.srt
+2025-01-18 02:10:17,433 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6_720.json to /var/www/html/conspyre.tv/videos/v_250107044538_v9ff6/v_250107044538_v9ff6.json
+2025-01-18 02:10:17,440 - INFO - Processing v_250107054333_vc52b (189/10931)
+2025-01-18 02:21:45,711 - INFO - Successfully processed v_250107054333_vc52b
+2025-01-18 02:21:45,711 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b_480.txt to /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b.txt
+2025-01-18 02:21:45,711 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b_480.vtt to /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b.vtt
+2025-01-18 02:21:45,711 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b_480.srt to /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b.srt
+2025-01-18 02:21:45,711 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b_480.json to /var/www/html/conspyre.tv/videos/v_250107054333_vc52b/v_250107054333_vc52b.json
+2025-01-18 02:21:45,717 - INFO - Processing v_250107184546_v239e (190/10931)
+2025-01-18 02:32:59,352 - INFO - Successfully processed v_250107184546_v239e
+2025-01-18 02:32:59,353 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e_480.txt to /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e.txt
+2025-01-18 02:32:59,353 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e_480.vtt to /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e.vtt
+2025-01-18 02:32:59,353 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e_480.srt to /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e.srt
+2025-01-18 02:32:59,353 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e_480.json to /var/www/html/conspyre.tv/videos/v_250107184546_v239e/v_250107184546_v239e.json
+2025-01-18 02:32:59,360 - INFO - Processing video_241221041948_vabb2 (191/10931)
+2025-01-18 03:20:10,796 - INFO - Successfully processed video_241221041948_vabb2
+2025-01-18 03:20:10,796 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2_720.txt to /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2.txt
+2025-01-18 03:20:10,796 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2_720.vtt to /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2.vtt
+2025-01-18 03:20:10,796 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2_720.srt to /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2.srt
+2025-01-18 03:20:10,796 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2_720.json to /var/www/html/conspyre.tv/videos/video_241221041948_vabb2/video_241221041948_vabb2.json
+2025-01-18 03:20:10,803 - INFO - Processing video_241221041805_v2b42 (192/10931)
+2025-01-18 04:04:25,061 - INFO - Successfully processed video_241221041805_v2b42
+2025-01-18 04:04:25,062 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42_720.txt to /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42.txt
+2025-01-18 04:04:25,062 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42_720.vtt to /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42.vtt
+2025-01-18 04:04:25,062 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42_720.srt to /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42.srt
+2025-01-18 04:04:25,062 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42_720.json to /var/www/html/conspyre.tv/videos/video_241221041805_v2b42/video_241221041805_v2b42.json
+2025-01-18 04:04:25,070 - INFO - Processing video_241221041554_vc5ac (193/10931)
+2025-01-18 05:15:59,475 - INFO - Successfully processed video_241221041554_vc5ac
+2025-01-18 05:15:59,475 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac_720.txt to /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac.txt
+2025-01-18 05:15:59,475 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac_720.vtt to /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac.vtt
+2025-01-18 05:15:59,475 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac_720.srt to /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac.srt
+2025-01-18 05:15:59,475 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac_720.json to /var/www/html/conspyre.tv/videos/video_241221041554_vc5ac/video_241221041554_vc5ac.json
+2025-01-18 05:15:59,483 - INFO - Processing video_241221024014_ve9ea (194/10931)
+2025-01-18 06:05:55,874 - INFO - Successfully processed video_241221024014_ve9ea
+2025-01-18 06:05:55,874 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea_720.txt to /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea.txt
+2025-01-18 06:05:55,874 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea_720.vtt to /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea.vtt
+2025-01-18 06:05:55,875 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea_720.srt to /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea.srt
+2025-01-18 06:05:55,875 - INFO - Renamed /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea_720.json to /var/www/html/conspyre.tv/videos/video_241221024014_ve9ea/video_241221024014_ve9ea.json
+2025-01-18 06:05:55,881 - INFO - Processing v_241221153315_v4bce (195/10931)
+2025-01-18 06:06:30,882 - INFO - Successfully processed v_241221153315_v4bce
+2025-01-18 06:06:30,882 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce_720.txt to /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce.txt
+2025-01-18 06:06:30,882 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce_720.vtt to /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce.vtt
+2025-01-18 06:06:30,882 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce_720.srt to /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce.srt
+2025-01-18 06:06:30,882 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce_720.json to /var/www/html/conspyre.tv/videos/v_241221153315_v4bce/v_241221153315_v4bce.json
+2025-01-18 06:06:30,889 - INFO - Processing v_241221162610_vaefa (196/10931)
+2025-01-18 06:11:40,478 - INFO - Successfully processed v_241221162610_vaefa
+2025-01-18 06:11:40,478 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa_720.txt to /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa.txt
+2025-01-18 06:11:40,479 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa_720.vtt to /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa.vtt
+2025-01-18 06:11:40,479 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa_720.srt to /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa.srt
+2025-01-18 06:11:40,479 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa_720.json to /var/www/html/conspyre.tv/videos/v_241221162610_vaefa/v_241221162610_vaefa.json
+2025-01-18 06:11:40,485 - INFO - Processing v_241221200933_v382f (197/10931)
+2025-01-18 07:50:50,032 - INFO - Successfully processed v_241221200933_v382f
+2025-01-18 07:50:50,032 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f_720.txt to /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f.txt
+2025-01-18 07:50:50,033 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f_720.vtt to /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f.vtt
+2025-01-18 07:50:50,033 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f_720.srt to /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f.srt
+2025-01-18 07:50:50,033 - INFO - Renamed /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f_720.json to /var/www/html/conspyre.tv/videos/v_241221200933_v382f/v_241221200933_v382f.json
+2025-01-18 07:50:50,039 - INFO - Processing v_250108030038_v7769 (198/10931)
